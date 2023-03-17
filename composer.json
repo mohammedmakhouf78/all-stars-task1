@@ -1,0 +1,20 @@
+{
+    "name": "mm/class_central3",
+    "autoload": {
+        "psr-4": {
+            "Mm\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "mohammedmakhlouf78",
+            "email": "mohammedmakhlouf78@gmail.com"
+        }
+    ],
+    "require": {
+        "google/cloud-translate": "^1.13",
+        "monolog/monolog": "^1.1||^2.0||^3.0",
+        "psr/log": "^1.0||^2.0||^3.0",
+        "google/cloud": "0.199.0"
+    }
+}
