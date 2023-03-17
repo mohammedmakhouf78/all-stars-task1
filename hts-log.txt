@@ -1,0 +1,863 @@
+HTTrack3.49-2+libhtsjava.so.2 launched on Fri, 17 Mar 2023 06:19:32 at https://www.classcentral.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/*
+(webhttrack -q -%i -w https://www.classcentral.com/ -O "/home/mm/websites/class_central3" -n -%P -N0 -s2 -p7 -D -a -K0 -c4 -%k -r2 -A25000 -F "Cray;I;OrganicOS 9.7.42beta-27" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -%s -%u )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+06:27:57	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/maths (from https://www.classcentral.com/)
+06:27:57	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/business (from https://www.classcentral.com/)
+06:27:57	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/humanities (from https://www.classcentral.com/)
+06:27:57	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/engineering (from https://www.classcentral.com/)
+06:28:16	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/education (from https://www.classcentral.com/)
+06:28:16	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/social-sciences (from https://www.classcentral.com/)
+06:28:39	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/data-science (from https://www.classcentral.com/)
+06:28:39	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/programming-and-software-development (from https://www.classcentral.com/)
+06:28:39	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/personal-development (from https://www.classcentral.com/)
+06:37:24	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/information-technology (from https://www.classcentral.com/)
+06:37:40	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/machine-learning (from https://www.classcentral.com/)
+06:37:40	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/devops (from https://www.classcentral.com/)
+06:37:40	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/deep-learning (from https://www.classcentral.com/)
+06:37:40	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/cryptography (from https://www.classcentral.com/)
+06:37:40	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/quantum-computing (from https://www.classcentral.com/)
+06:37:40	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/hci (from https://www.classcentral.com/)
+06:37:58	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/blockchain (from https://www.classcentral.com/)
+06:38:15	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/computer-graphics (from https://www.classcentral.com/)
+06:38:15	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/nutrition-and-wellness (from https://www.classcentral.com/)
+06:38:39	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/health-care (from https://www.classcentral.com/)
+06:38:39	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/nursing (from https://www.classcentral.com/)
+06:38:55	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/veterinary-science (from https://www.classcentral.com/)
+06:38:55	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/cme (from https://www.classcentral.com/)
+06:39:09	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/foundations-of-mathematics (from https://www.classcentral.com/)
+06:39:09	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/calculus (from https://www.classcentral.com/)
+06:39:24	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/trigonometry (from https://www.classcentral.com/)
+06:39:24	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/geometry (from https://www.classcentral.com/)
+06:39:40	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/precalculus (from https://www.classcentral.com/)
+06:39:40	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/number-theory (from https://www.classcentral.com/)
+06:39:55	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/mathematical-logic (from https://www.classcentral.com/)
+06:39:55	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/linear-programming (from https://www.classcentral.com/)
+06:39:55	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/set-theory (from https://www.classcentral.com/)
+06:39:55	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/group-theory (from https://www.classcentral.com/)
+06:39:55	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/management-and-leadership (from https://www.classcentral.com/)
+06:40:10	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/entrepreneurship (from https://www.classcentral.com/)
+06:40:10	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/marketing (from https://www.classcentral.com/)
+06:40:28	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/industry-specific (from https://www.classcentral.com/)
+06:40:28	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/business-intelligence (from https://www.classcentral.com/)
+06:40:44	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/human-resources (from https://www.classcentral.com/)
+06:40:44	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/project-management (from https://www.classcentral.com/)
+06:40:44	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/sales (from https://www.classcentral.com/)
+06:41:02	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/business-software (from https://www.classcentral.com/)
+06:41:02	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/risk-management (from https://www.classcentral.com/)
+06:41:16	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/customer-service (from https://www.classcentral.com/)
+06:41:16	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/nonprofit (from https://www.classcentral.com/)
+06:41:32	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/operations-management (from https://www.classcentral.com/)
+06:41:32	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/history (from https://www.classcentral.com/)
+06:41:48	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/language-learning (from https://www.classcentral.com/)
+06:41:48	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/grammar-writing (from https://www.classcentral.com/)
+06:42:04	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/religion (from https://www.classcentral.com/)
+06:42:04	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/esl (from https://www.classcentral.com/)
+06:42:20	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/sports (from https://www.classcentral.com/)
+06:42:20	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/journalism (from https://www.classcentral.com/)
+06:42:38	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/linguistics (from https://www.classcentral.com/)
+06:42:38	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/food (from https://www.classcentral.com/)
+06:42:51	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/reading (from https://www.classcentral.com/)
+06:43:07	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/electrical-engineering (from https://www.classcentral.com/)
+06:43:07	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/mechanical-engineering (from https://www.classcentral.com/)
+06:43:07	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/civil-engineering (from https://www.classcentral.com/)
+06:43:23	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/nanotechnology (from https://www.classcentral.com/)
+06:43:23	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/gis (from https://www.classcentral.com/)
+06:43:38	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/manufacturing (from https://www.classcentral.com/)
+06:43:38	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/bim (from https://www.classcentral.com/)
+06:43:56	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/chemical-engineering (from https://www.classcentral.com/)
+06:43:56	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/energy-systems (from https://www.classcentral.com/)
+06:44:12	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/chemistry (from https://www.classcentral.com/)
+06:44:12	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/physics (from https://www.classcentral.com/)
+06:44:12	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/environmental-science (from https://www.classcentral.com/)
+06:44:26	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/biology (from https://www.classcentral.com/)
+06:44:26	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/agriculture (from https://www.classcentral.com/)
+06:44:41	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/earth-science (from https://www.classcentral.com/)
+06:44:41	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/applied-science (from https://www.classcentral.com/)
+06:44:55	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/meteorology (from https://www.classcentral.com/)
+06:44:55	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/k12 (from https://www.classcentral.com/)
+06:44:55	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/higher-education (from https://www.classcentral.com/)
+06:45:11	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/teacher-development (from https://www.classcentral.com/)
+06:45:11	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/course-development (from https://www.classcentral.com/)
+06:45:27	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/test-prep (from https://www.classcentral.com/)
+06:45:27	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/pedagogy (from https://www.classcentral.com/)
+06:45:27	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/sociology (from https://www.classcentral.com/)
+06:45:43	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/psychology (from https://www.classcentral.com/)
+06:45:43	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/anthropology (from https://www.classcentral.com/)
+06:45:56	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/law (from https://www.classcentral.com/)
+06:45:56	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/urban-planning (from https://www.classcentral.com/)
+06:46:14	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/sustainability (from https://www.classcentral.com/)
+06:46:14	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/governance (from https://www.classcentral.com/)
+06:46:14	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/archaeology (from https://www.classcentral.com/)
+06:46:46	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/music (from https://www.classcentral.com/)
+06:46:46	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/digital-media (from https://www.classcentral.com/)
+06:46:58	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/design-and-creativity (from https://www.classcentral.com/)
+06:46:58	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/bioinformatics (from https://www.classcentral.com/)
+06:47:14	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/data-mining (from https://www.classcentral.com/)
+06:47:14	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/data-analysis (from https://www.classcentral.com/)
+06:47:14	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/data-visualization (from https://www.classcentral.com/)
+06:47:29	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/mobile-development (from https://www.classcentral.com/)
+06:47:29	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/web-development (from https://www.classcentral.com/)
+06:47:45	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/game-development (from https://www.classcentral.com/)
+06:47:45	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/programming-languages (from https://www.classcentral.com/)
+06:47:45	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/software-development (from https://www.classcentral.com/)
+06:48:00	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/communication-skills (from https://www.classcentral.com/)
+06:48:00	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/career-development (from https://www.classcentral.com/)
+06:48:12	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/presentation-skills (from https://www.classcentral.com/)
+06:48:12	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/resilience (from https://www.classcentral.com/)
+06:48:20	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/network-security (from https://www.classcentral.com/)
+06:48:20	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/ethical-hacking (from https://www.classcentral.com/)
+06:48:20	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/digital-forensics (from https://www.classcentral.com/)
+06:48:23	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/pentesting (from https://www.classcentral.com/)
+06:48:23	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/malware-analysis (from https://www.classcentral.com/)
+06:48:37	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/osint (from https://www.classcentral.com/)
+06:48:50	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/infosec-certifications (from https://www.classcentral.com/)
+06:48:50	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/red-team (from https://www.classcentral.com/)
+06:50:37	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/course/information-systems-audit-17979 (from https://www.classcentral.com/)
+06:50:37	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/help/moocs (from https://www.classcentral.com/)
+06:55:48	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/providers (from https://www.classcentral.com/)
+06:56:35	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/provider/unccelearn (from https://www.classcentral.com/)
+07:04:43	Warning: 	Moved Permanently for https://www.classcentral.com/report/google-free-certificates/
+07:04:43	Warning: 	File has moved from https://www.classcentral.com/report/google-free-certificates/ to https://www.classcentral.com/report/free-google-certifications/
+07:05:25	Warning: 	Moved Permanently for https://www.classcentral.com/collection/ivy-league-moocs/
+07:05:25	Warning: 	File has moved from https://www.classcentral.com/collection/ivy-league-moocs/ to https://www.classcentral.com/collection/ivy-league-moocs
+07:06:32	Error: 	"Not Found" (404) at link https://www.classcentral.com/update-item/ (from https://www.classcentral.com/)
+07:06:32	Error: 	"Not Found" (404) at link https://www.classcentral.com/delete-item/ (from https://www.classcentral.com/)
+07:06:32	Error: 	"Not Found" (404) at link https://www.classcentral.com/move-item/ (from https://www.classcentral.com/)
+07:06:32	Error: 	"Not Found" (404) at link https://www.classcentral.com/maestro/course-reviews/ (from https://www.classcentral.com/)
+07:06:32	Error: 	"Not Found" (404) at link https://www.classcentral.com/coordinator/ (from https://www.classcentral.com/)
+07:06:32	Error: 	"Not Found" (404) at link https://www.classcentral.com/s/ (from https://www.classcentral.com/)
+07:06:32	Error: 	"Not Found" (404) at link https://www.classcentral.com/enrollee-list/update-item-progress/ (from https://www.classcentral.com/)
+07:06:32	Warning: 	Link https://www.classcentral.com/cdn-cgi/l/email-protection not scanned (follow robots meta tag)
+07:06:33	Warning: 	Warning: store text/html without scan: /home/mm/websites/class_central3/www.classcentral.com/subjects4658.html
+07:06:33	Warning: 	Warning: store text/html without scan: /home/mm/websites/class_central3/www.classcentral.com/subject/cs4658.html
+07:06:33	Warning: 	Warning: store text/html without scan: /home/mm/websites/class_central3/www.classcentral.com/subject/health4658.html
+07:06:33	Warning: 	Warning: store text/html without scan: /home/mm/websites/class_central3/www.classcentral.com/subject/science4658.html
+07:06:33	Warning: 	Warning: store text/html without scan: /home/mm/websites/class_central3/www.classcentral.com/subject/art-and-design4658.html
+07:06:33	Warning: 	Warning: store text/html without scan: /home/mm/websites/class_central3/www.classcentral.com/subject/infosec4658.html
+07:06:33	Error: 	"Forbidden" (403) at link https://www.classcentral.com/report/xmlrpc.php?rsd (from https://www.classcentral.com/report/)
+07:06:33	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=71214
+07:06:33	Warning: 	File has moved from https://www.classcentral.com/report/?p=71214 to https://www.classcentral.com/report/most-popular-online-courses/
+07:06:33	Warning: 	Warning: store text/html without scan: /home/mm/websites/class_central3/www.classcentral.com/report/index7b9d.html
+07:06:34	Warning: 	Note: due to https://secure.gravatar.com remote robots.txt rules, links beginning with these path will be forbidden: /*.json, /*.xml, /*.php, /*.vcf, /*.qr, /accounts/activate/*, /accounts/force-by-email/*, /account/ (see in the options to disable this)
+07:06:34	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=77094
+07:06:34	Warning: 	File has moved from https://www.classcentral.com/report/?p=77094 to https://www.classcentral.com/report/best-free-online-courses-2022/
+07:06:34	Warning: 	Warning: store text/html without scan: /home/mm/websites/class_central3/www.classcentral.com/report/index4928.html
+07:06:34	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=73773
+07:06:34	Warning: 	File has moved from https://www.classcentral.com/report/?p=73773 to https://www.classcentral.com/report/best-free-online-courses-2021/
+07:06:34	Warning: 	Warning: store text/html without scan: /home/mm/websites/class_central3/www.classcentral.com/report/indexacb4.html
+07:06:34	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=77063
+07:06:34	Warning: 	File has moved from https://www.classcentral.com/report/?p=77063 to https://www.classcentral.com/report/most-popular-courses-2022/
+07:06:34	Warning: 	Warning: store text/html without scan: /home/mm/websites/class_central3/www.classcentral.com/report/index1a28.html
+07:06:34	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=73299
+07:06:34	Warning: 	File has moved from https://www.classcentral.com/report/?p=73299 to https://www.classcentral.com/report/100-most-popular-online-courses-2021/
+07:06:34	Warning: 	Warning: store text/html without scan: /home/mm/websites/class_central3/www.classcentral.com/report/indexc39c.html
+07:06:34	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=66895
+07:06:34	Warning: 	File has moved from https://www.classcentral.com/report/?p=66895 to https://www.classcentral.com/report/coursera-free-online-courses/
+07:06:34	Warning: 	Warning: store text/html without scan: /home/mm/websites/class_central3/www.classcentral.com/report/index5f7b.html
+07:06:34	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=74608
+07:06:34	Warning: 	File has moved from https://www.classcentral.com/report/?p=74608 to https://www.classcentral.com/report/free-certificates/
+07:06:34	Warning: 	Warning: store text/html without scan: /home/mm/websites/class_central3/www.classcentral.com/report/index4541.html
+07:06:34	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=74324
+07:06:34	Warning: 	File has moved from https://www.classcentral.com/report/?p=74324 to https://www.classcentral.com/report/free-google-certifications/
+07:06:34	Warning: 	Warning: store text/html without scan: /home/mm/websites/class_central3/www.classcentral.com/report/index5cd6.html
+07:06:34	Warning: 	Warning: store text/html without scan: /home/mm/websites/class_central3/www.classcentral.com/mooc-course-report/march-2023.html
+07:06:34	Warning: 	Warning: store text/html without scan: /home/mm/websites/class_central3/www.classcentral.com/starting-this-month4658.html
+07:06:34	Warning: 	Warning: store text/html without scan: /home/mm/websites/class_central3/www.classcentral.com/new-online-courses/february-20234658.html
+07:06:34	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=85347
+07:06:34	Warning: 	File has moved from https://www.classcentral.com/report/?p=85347 to https://www.classcentral.com/report/most-popular-march-2023/
+07:06:34	Warning: 	Warning: store text/html without scan: /home/mm/websites/class_central3/www.classcentral.com/report/indexa750.html
+07:06:34	Warning: 	Warning: store text/html without scan: /home/mm/websites/class_central3/www.classcentral.com/subject/ai4658.html
+07:06:35	Warning: 	Warning: store text/html without scan: /home/mm/websites/class_central3/www.classcentral.com/subject/algorithms-and-data-structures4658.html
+07:06:35	Warning: 	Warning: store text/html without scan: /home/mm/websites/class_central3/www.classcentral.com/subject/internet-of-things4658.html
+07:06:35	Warning: 	Warning: store text/html without scan: /home/mm/websites/class_central3/www.classcentral.com/subject/computer-networking4658.html
+07:06:35	Warning: 	Warning: store text/html without scan: /home/mm/websites/class_central3/www.classcentral.com/subject/disease-and-disorders4658.html
+07:06:35	Warning: 	Warning: store text/html without scan: /home/mm/websites/class_central3/www.classcentral.com/subject/public-health4658.html
+07:06:35	Warning: 	Warning: store text/html without scan: /home/mm/websites/class_central3/www.classcentral.com/subject/anatomy4658.html
+07:06:35	Warning: 	Warning: store text/html without scan: /home/mm/websites/class_central3/www.classcentral.com/subject/statistics4658.html
+07:06:35	Warning: 	Warning: store text/html without scan: /home/mm/websites/class_central3/www.classcentral.com/subject/algebra4658.html
+07:06:35	Warning: 	Warning: store text/html without scan: /home/mm/websites/class_central3/www.classcentral.com/subject/finance4658.html
+07:06:35	Warning: 	Warning: store text/html without scan: /home/mm/websites/class_central3/www.classcentral.com/subject/strategic-management4658.html
+07:06:35	Warning: 	Warning: store text/html without scan: /home/mm/websites/class_central3/www.classcentral.com/subject/accounting4658.html
+07:06:35	Warning: 	Warning: store text/html without scan: /home/mm/websites/class_central3/www.classcentral.com/subject/design-thinking4658.html
+07:06:35	Warning: 	Warning: store text/html without scan: /home/mm/websites/class_central3/www.classcentral.com/subject/innovation4658.html
+07:06:35	Warning: 	Warning: store text/html without scan: /home/mm/websites/class_central3/www.classcentral.com/subject/literature4658.html
+07:06:35	Warning: 	Warning: store text/html without scan: /home/mm/websites/class_central3/www.classcentral.com/subject/philosophy4658.html
+07:06:35	Warning: 	Warning: store text/html without scan: /home/mm/websites/class_central3/www.classcentral.com/subject/culture4658.html
+07:06:35	Warning: 	Warning: store text/html without scan: /home/mm/websites/class_central3/www.classcentral.com/subject/ethics4658.html
+07:06:35	Warning: 	Warning: store text/html without scan: /home/mm/websites/class_central3/www.classcentral.com/subject/robotics4658.html
+07:06:35	Warning: 	Warning: store text/html without scan: /home/mm/websites/class_central3/www.classcentral.com/subject/cad4658.html
+07:06:35	Warning: 	Warning: store text/html without scan: /home/mm/websites/class_central3/www.classcentral.com/subject/aerospace-engineering4658.html
+07:06:35	Warning: 	Warning: store text/html without scan: /home/mm/websites/class_central3/www.classcentral.com/subject/astronomy4658.html
+07:06:35	Warning: 	Warning: store text/html without scan: /home/mm/websites/class_central3/www.classcentral.com/subject/materials-science4658.html
+07:06:35	Warning: 	Warning: store text/html without scan: /home/mm/websites/class_central3/www.classcentral.com/subject/stem4658.html
+07:06:35	Warning: 	Warning: store text/html without scan: /home/mm/websites/class_central3/www.classcentral.com/subject/online-education4658.html
+07:06:35	Warning: 	Warning: store text/html without scan: /home/mm/websites/class_central3/www.classcentral.com/subject/economics4658.html
+07:06:35	Warning: 	Warning: store text/html without scan: /home/mm/websites/class_central3/www.classcentral.com/subject/political-science4658.html
+07:06:35	Warning: 	Warning: store text/html without scan: /home/mm/websites/class_central3/www.classcentral.com/subject/human-rights4658.html
+07:06:35	Warning: 	Warning: store text/html without scan: /home/mm/websites/class_central3/www.classcentral.com/subject/childhood-development4658.html
+07:06:35	Warning: 	Warning: store text/html without scan: /home/mm/websites/class_central3/www.classcentral.com/subject/visual-arts4658.html
+07:06:35	Warning: 	Warning: store text/html without scan: /home/mm/websites/class_central3/www.classcentral.com/subject/big-data4658.html
+07:06:35	Warning: 	Warning: store text/html without scan: /home/mm/websites/class_central3/www.classcentral.com/subject/databases4658.html
+07:06:35	Warning: 	Warning: store text/html without scan: /home/mm/websites/class_central3/www.classcentral.com/subject/cloud-computing4658.html
+07:06:35	Warning: 	Warning: store text/html without scan: /home/mm/websites/class_central3/www.classcentral.com/subject/self-improvement4658.html
+07:06:35	Warning: 	Warning: store text/html without scan: /home/mm/websites/class_central3/www.classcentral.com/subject/cybersecurity4658.html
+07:06:35	Warning: 	Warning: store text/html without scan: /home/mm/websites/class_central3/www.classcentral.com/subject/threat-intelligence4658.html
+07:06:35	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=85491
+07:06:35	Warning: 	File has moved from https://www.classcentral.com/report/?p=85491 to https://www.classcentral.com/report/coursera-google-new-deal/
+07:06:35	Warning: 	Warning: store text/html without scan: /home/mm/websites/class_central3/www.classcentral.com/report/indexc9a6.html
+07:06:35	Error: 	"Not Found" (404) at link https://www.classcentral.com/report/author/page/2/ (from https://www.classcentral.com/report/author/dhawal/)
+07:06:35	Error: 	"Not Found" (404) at link https://www.classcentral.com/report/wp-json/wp/v2/users/0 (from https://www.classcentral.com/report/author/dhawal/)
+07:06:35	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=85751
+07:06:35	Warning: 	File has moved from https://www.classcentral.com/report/?p=85751 to https://www.classcentral.com/report/review-primeros-auxilios-psicologicos/
+07:06:35	Warning: 	Warning: store text/html without scan: /home/mm/websites/class_central3/www.classcentral.com/report/index47b3.html
+07:06:35	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=85740
+07:06:35	Warning: 	File has moved from https://www.classcentral.com/report/?p=85740 to https://www.classcentral.com/report/review-psychological-first-aid/
+07:06:35	Warning: 	Warning: store text/html without scan: /home/mm/websites/class_central3/www.classcentral.com/report/index12cf.html
+07:06:35	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=78940
+07:06:35	Warning: 	File has moved from https://www.classcentral.com/report/?p=78940 to https://www.classcentral.com/report/best-data-science-courses/
+07:06:35	Warning: 	Warning: store text/html without scan: /home/mm/websites/class_central3/www.classcentral.com/report/index9a39.html
+07:06:35	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=85701
+07:06:35	Warning: 	File has moved from https://www.classcentral.com/report/?p=85701 to https://www.classcentral.com/report/best-user-experience-courses/
+07:06:35	Warning: 	Warning: store text/html without scan: /home/mm/websites/class_central3/www.classcentral.com/report/index590a.html
+07:06:35	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=85718
+07:06:35	Warning: 	File has moved from https://www.classcentral.com/report/?p=85718 to https://www.classcentral.com/report/learning-with-moocs-2023/
+07:06:35	Warning: 	Warning: store text/html without scan: /home/mm/websites/class_central3/www.classcentral.com/report/index296e.html
+07:06:35	Warning: 	Warning: store text/html without scan: /home/mm/websites/class_central3/www.classcentral.com/subject/it-certifications4658.html
+07:06:35	Warning: 	Warning: store text/html without scan: /home/mm/websites/class_central3/www.classcentral.com/university/stanford4658.html
+07:06:35	Warning: 	Warning: store text/html without scan: /home/mm/websites/class_central3/www.classcentral.com/university/mit4658.html
+07:06:35	Warning: 	Warning: store text/html without scan: /home/mm/websites/class_central3/www.classcentral.com/institution/google4658.html
+07:06:35	Warning: 	Warning: store text/html without scan: /home/mm/websites/class_central3/www.classcentral.com/institution/amazon4658.html
+07:06:35	Warning: 	Warning: store text/html without scan: /home/mm/websites/class_central3/www.classcentral.com/report/category/best-courses/page/2/index.html
+07:06:35	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=84167
+07:06:35	Warning: 	File has moved from https://www.classcentral.com/report/?p=84167 to https://www.classcentral.com/report/online-learning-deals/
+07:06:35	Warning: 	Warning: store text/html without scan: /home/mm/websites/class_central3/www.classcentral.com/report/index5a97.html
+07:06:35	Warning: 	Warning: store text/html without scan: /home/mm/websites/class_central3/www.classcentral.com/university/harvard4658.html
+07:06:35	Warning: 	Warning: store text/html without scan: /home/mm/websites/class_central3/www.classcentral.com/university/iit-kharagpur4658.html
+07:06:35	Warning: 	Warning: store text/html without scan: /home/mm/websites/class_central3/www.classcentral.com/university/rice4658.html
+07:06:35	Warning: 	Warning: store text/html without scan: /home/mm/websites/class_central3/www.classcentral.com/university/iitm4658.html
+07:06:35	Warning: 	Warning: store text/html without scan: /home/mm/websites/class_central3/www.classcentral.com/university/columbia4658.html
+07:06:35	Warning: 	Warning: store text/html without scan: /home/mm/websites/class_central3/www.classcentral.com/university/edinburgh4658.html
+07:06:35	Warning: 	Warning: store text/html without scan: /home/mm/websites/class_central3/www.classcentral.com/university/purdue4658.html
+07:06:35	Warning: 	Warning: store text/html without scan: /home/mm/websites/class_central3/www.classcentral.com/university/penn4658.html
+07:06:35	Warning: 	Warning: store text/html without scan: /home/mm/websites/class_central3/www.classcentral.com/university/duke4658.html
+07:06:35	Warning: 	Warning: store text/html without scan: /home/mm/websites/class_central3/www.classcentral.com/university/umich4658.html
+07:06:35	Warning: 	Warning: store text/html without scan: /home/mm/websites/class_central3/www.classcentral.com/provider/coursera4658.html
+07:06:35	Warning: 	Warning: store text/html without scan: /home/mm/websites/class_central3/www.classcentral.com/provider/edx4658.html
+07:06:35	Warning: 	Warning: store text/html without scan: /home/mm/websites/class_central3/www.classcentral.com/provider/futurelearn4658.html
+07:06:35	Warning: 	Warning: store text/html without scan: /home/mm/websites/class_central3/www.classcentral.com/provider/udemy4658.html
+07:06:35	Warning: 	Warning: store text/html without scan: /home/mm/websites/class_central3/www.classcentral.com/provider/swayam4658.html
+07:06:35	Warning: 	Warning: store text/html without scan: /home/mm/websites/class_central3/www.classcentral.com/provider/linkedin-learning4658.html
+07:06:35	Warning: 	Warning: store text/html without scan: /home/mm/websites/class_central3/www.classcentral.com/provider/skillshare4658.html
+07:06:35	Warning: 	Warning: store text/html without scan: /home/mm/websites/class_central3/www.classcentral.com/institution/microsoft4658.html
+07:06:35	Warning: 	Warning: store text/html without scan: /home/mm/websites/class_central3/www.classcentral.com/institution/ibm4658.html
+07:06:35	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=85667
+07:06:35	Warning: 	File has moved from https://www.classcentral.com/report/?p=85667 to https://www.classcentral.com/report/coursera-economics/
+07:06:35	Warning: 	Warning: store text/html without scan: /home/mm/websites/class_central3/www.classcentral.com/report/index02ea.html
+07:06:35	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=85614
+07:06:35	Warning: 	File has moved from https://www.classcentral.com/report/?p=85614 to https://www.classcentral.com/report/futurelearn-price-hike-ceo-exit/
+07:06:35	Warning: 	Warning: store text/html without scan: /home/mm/websites/class_central3/www.classcentral.com/report/indexe891.html
+07:06:35	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=85564
+07:06:35	Warning: 	File has moved from https://www.classcentral.com/report/?p=85564 to https://www.classcentral.com/report/masterclass-layoffs-round-three/
+07:06:35	Warning: 	Warning: store text/html without scan: /home/mm/websites/class_central3/www.classcentral.com/report/index8ee0.html
+07:06:35	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=72261
+07:06:35	Warning: 	File has moved from https://www.classcentral.com/report/?p=72261 to https://www.classcentral.com/report/most-cited-mooc-research/
+07:06:35	Warning: 	Warning: store text/html without scan: /home/mm/websites/class_central3/www.classcentral.com/report/index04e8.html
+07:06:35	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=84060
+07:06:35	Warning: 	File has moved from https://www.classcentral.com/report/?p=84060 to https://www.classcentral.com/report/emoocs-2023-cfp/
+07:06:35	Warning: 	Warning: store text/html without scan: /home/mm/websites/class_central3/www.classcentral.com/report/indexd15c.html
+07:06:35	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=85377
+07:06:35	Warning: 	File has moved from https://www.classcentral.com/report/?p=85377 to https://www.classcentral.com/report/udemy-layoffs/
+07:06:35	Warning: 	Warning: store text/html without scan: /home/mm/websites/class_central3/www.classcentral.com/report/index5a49.html
+07:06:35	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=85681
+07:06:35	Warning: 	File has moved from https://www.classcentral.com/report/?p=85681 to https://www.classcentral.com/report/best-crystal-programming-courses/
+07:06:35	Warning: 	Warning: store text/html without scan: /home/mm/websites/class_central3/www.classcentral.com/report/indexb51a.html
+07:06:35	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=85571
+07:06:35	Warning: 	File has moved from https://www.classcentral.com/report/?p=85571 to https://www.classcentral.com/report/best-bookkeeping-courses/
+07:06:35	Warning: 	Warning: store text/html without scan: /home/mm/websites/class_central3/www.classcentral.com/report/index0967.html
+07:06:35	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=85587
+07:06:35	Warning: 	File has moved from https://www.classcentral.com/report/?p=85587 to https://www.classcentral.com/report/best-css-layout-courses/
+07:06:35	Warning: 	Warning: store text/html without scan: /home/mm/websites/class_central3/www.classcentral.com/report/index2250.html
+07:06:35	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=73844
+07:06:35	Warning: 	File has moved from https://www.classcentral.com/report/?p=73844 to https://www.classcentral.com/report/udemy-top-courses/
+07:06:35	Warning: 	Warning: store text/html without scan: /home/mm/websites/class_central3/www.classcentral.com/report/index4337.html
+07:06:35	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=72109
+07:06:35	Warning: 	File has moved from https://www.classcentral.com/report/?p=72109 to https://www.classcentral.com/report/india-online-degrees/
+07:06:35	Warning: 	Warning: store text/html without scan: /home/mm/websites/class_central3/www.classcentral.com/report/index702e.html
+07:06:35	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=65630
+07:06:35	Warning: 	File has moved from https://www.classcentral.com/report/?p=65630 to https://www.classcentral.com/report/mooc-based-masters-degree/
+07:06:35	Warning: 	Warning: store text/html without scan: /home/mm/websites/class_central3/www.classcentral.com/report/index127b.html
+07:06:35	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=70569
+07:06:35	Warning: 	File has moved from https://www.classcentral.com/report/?p=70569 to https://www.classcentral.com/report/list-of-mooc-based-microcredentials/
+07:06:35	Warning: 	Warning: store text/html without scan: /home/mm/websites/class_central3/www.classcentral.com/report/index3575.html
+07:06:35	Warning: 	Warning: store text/html without scan: /home/mm/websites/class_central3/www.classcentral.com/provider/udacity4658.html
+07:06:35	Warning: 	Warning: store text/html without scan: /home/mm/websites/class_central3/www.classcentral.com/university/gatech4658.html
+07:06:35	Warning: 	Warning: store text/html without scan: /home/mm/websites/class_central3/www.classcentral.com/institution/linuxfoundation4658.html
+07:06:35	Warning: 	Warning: store text/html without scan: /home/mm/websites/class_central3/www.classcentral.com/institution/salesforce4658.html
+07:06:35	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=83775
+07:06:35	Warning: 	File has moved from https://www.classcentral.com/report/?p=83775 to https://www.classcentral.com/report/most-popular-courses-2023/
+07:06:35	Warning: 	Warning: store text/html without scan: /home/mm/websites/class_central3/www.classcentral.com/report/index0ebe.html
+07:06:35	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=76388
+07:06:35	Warning: 	File has moved from https://www.classcentral.com/report/?p=76388 to https://www.classcentral.com/report/coursera-top-courses/
+07:06:35	Warning: 	Warning: store text/html without scan: /home/mm/websites/class_central3/www.classcentral.com/report/indexfbe4.html
+07:06:35	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=76369
+07:06:35	Warning: 	File has moved from https://www.classcentral.com/report/?p=76369 to https://www.classcentral.com/report/edx-top-courses/
+07:06:35	Warning: 	Warning: store text/html without scan: /home/mm/websites/class_central3/www.classcentral.com/report/index4aa4.html
+07:06:35	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=84384
+07:06:35	Warning: 	File has moved from https://www.classcentral.com/report/?p=84384 to https://www.classcentral.com/report/2022-year-in-review/
+07:06:35	Warning: 	Warning: store text/html without scan: /home/mm/websites/class_central3/www.classcentral.com/report/index4821.html
+07:06:35	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=83561
+07:06:35	Warning: 	File has moved from https://www.classcentral.com/report/?p=83561 to https://www.classcentral.com/report/class-central-ddos-attack/
+07:06:35	Warning: 	Warning: store text/html without scan: /home/mm/websites/class_central3/www.classcentral.com/report/index3476.html
+07:06:35	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=70103
+07:06:35	Warning: 	File has moved from https://www.classcentral.com/report/?p=70103 to https://www.classcentral.com/report/cs50-free-certificate/
+07:06:35	Warning: 	Warning: store text/html without scan: /home/mm/websites/class_central3/www.classcentral.com/report/index70a0.html
+07:06:35	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=67197
+07:06:35	Warning: 	File has moved from https://www.classcentral.com/report/?p=67197 to https://www.classcentral.com/report/open-university-insiders-perspective/
+07:06:35	Warning: 	Warning: store text/html without scan: /home/mm/websites/class_central3/www.classcentral.com/report/index6b6e.html
+07:06:35	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=72028
+07:06:35	Warning: 	File has moved from https://www.classcentral.com/report/?p=72028 to https://www.classcentral.com/report/linkedin-learning-free-learning-paths/
+07:06:35	Warning: 	Warning: store text/html without scan: /home/mm/websites/class_central3/www.classcentral.com/report/index29c3.html
+07:06:35	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=58243
+07:06:35	Warning: 	File has moved from https://www.classcentral.com/report/?p=58243 to https://www.classcentral.com/report/writing-free-online-courses/
+07:06:35	Warning: 	Warning: store text/html without scan: /home/mm/websites/class_central3/www.classcentral.com/report/indexbd64.html
+07:06:36	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.classcentral.com/opensearch.xml
+07:08:42	Warning: 	HTML file (196988 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/most-popular-online-courses/
+07:08:51	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.classcentral.com/report/most-popular-online-courses/ (from https://www.classcentral.com/)
+07:09:44	Warning: 	HTML file (144474 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/best-free-online-courses-2022/
+07:09:48	Warning: 	HTML file (344380 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/feed/
+07:09:52	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.classcentral.com/report/best-free-online-courses-2022/ (from https://www.classcentral.com/)
+07:09:52	Warning: 	HTML file (510115 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/coursera-free-online-courses/
+07:10:03	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.classcentral.com/report/coursera-free-online-courses/ (from https://www.classcentral.com/)
+07:10:49	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): static.getclicky.com/js
+07:10:50	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): in.getclicky.com/100717250ns.gif
+07:11:07	Warning: 	HTML file (142447 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/author/dhawal/
+07:11:15	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.classcentral.com/report/author/dhawal/ (from https://www.classcentral.com/)
+07:11:48	Warning: 	HTML file (751849 bytes) retransferred due to lack of cache: https://www.classcentral.com/subject/it-certifications
+07:12:02	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.classcentral.com/subject/it-certifications (from https://www.classcentral.com/)
+07:13:32	Warning: 	HTML file (760818 bytes) retransferred due to lack of cache: https://www.classcentral.com/institution/google
+07:13:46	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.classcentral.com/institution/google (from https://www.classcentral.com/)
+07:14:38	Warning: 	HTML file (778840 bytes) retransferred due to lack of cache: https://www.classcentral.com/university/harvard
+07:14:52	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.classcentral.com/university/harvard (from https://www.classcentral.com/)
+07:15:15	Warning: 	HTML file (142086 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/wp-json/
+07:15:18	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.classcentral.com/report/wp-json/wp/v2/pages/67792
+07:15:21	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.classcentral.com/report/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.classcentral.com%2Freport%2F
+07:15:23	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.classcentral.com/report/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.classcentral.com%2Freport%2F&format=xml
+07:15:24	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.classcentral.com/report/wp-content/themes/wp-theme/dist/images/favicon.ico
+07:15:30	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.classcentral.com/report/wp-json/wp/v2/posts/71214
+07:15:30	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.classcentral.com/report/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.classcentral.com%2Freport%2Fmost-popular-online-courses%2F
+07:15:32	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.classcentral.com/report/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.classcentral.com%2Freport%2Fmost-popular-online-courses%2F&format=xml
+07:15:34	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.classcentral.com/report/wp-json/wp/v2/posts/77094
+07:15:34	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.classcentral.com/report/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.classcentral.com%2Freport%2Fbest-free-online-courses-2022%2F
+07:15:36	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.classcentral.com/report/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.classcentral.com%2Freport%2Fbest-free-online-courses-2022%2F&format=xml
+07:15:36	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.classcentral.com/report/wp-json/wp/v2/posts/73773
+07:15:37	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.classcentral.com/report/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.classcentral.com%2Freport%2Fbest-free-online-courses-2021%2F
+07:15:39	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.classcentral.com/report/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.classcentral.com%2Freport%2Fbest-free-online-courses-2021%2F&format=xml
+07:15:39	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.classcentral.com/report/wp-json/wp/v2/posts/77063
+07:15:41	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.classcentral.com/report/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.classcentral.com%2Freport%2Fmost-popular-courses-2022%2F&format=xml
+07:15:41	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.classcentral.com/report/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.classcentral.com%2Freport%2Fmost-popular-courses-2022%2F
+07:15:43	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.classcentral.com/report/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.classcentral.com%2Freport%2F100-most-popular-online-courses-2021%2F
+07:15:43	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.classcentral.com/report/wp-json/wp/v2/posts/73299
+07:15:44	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.classcentral.com/report/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.classcentral.com%2Freport%2F100-most-popular-online-courses-2021%2F&format=xml
+07:15:48	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.classcentral.com/report/wp-json/wp/v2/posts/66895
+07:15:51	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.classcentral.com/report/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.classcentral.com%2Freport%2Fcoursera-free-online-courses%2F
+07:15:53	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.classcentral.com/report/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.classcentral.com%2Freport%2Fcoursera-free-online-courses%2F&format=xml
+07:15:57	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.classcentral.com/report/wp-json/wp/v2/posts/74608
+07:16:02	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.classcentral.com/report/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.classcentral.com%2Freport%2Ffree-certificates%2F
+07:16:04	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.classcentral.com/report/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.classcentral.com%2Freport%2Ffree-certificates%2F&format=xml
+07:16:22	Warning: 	HTML file (168255 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/best-crystal-programming-courses/
+07:16:27	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.classcentral.com/report/wp-json/wp/v2/posts/74324
+07:16:30	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.classcentral.com/report/best-crystal-programming-courses/ (from https://www.classcentral.com/)
+07:16:30	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.classcentral.com/report/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.classcentral.com%2Freport%2Ffree-google-certifications%2F
+07:16:31	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.classcentral.com/report/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.classcentral.com%2Freport%2Ffree-google-certifications%2F&format=xml
+07:16:32	Warning: 	HTML file (171646 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/best-css-layout-courses/
+07:16:39	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.classcentral.com/report/best-css-layout-courses/ (from https://www.classcentral.com/)
+07:18:07	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.classcentral.com/report/wp-json/wp/v2/posts/85347
+07:18:09	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.classcentral.com/report/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.classcentral.com%2Freport%2Fmost-popular-march-2023%2F
+07:18:11	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.classcentral.com/report/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.classcentral.com%2Freport%2Fmost-popular-march-2023%2F&format=xml
+07:19:37	Warning: 	Warning: store image/svg+xml without scan: /home/mm/websites/class_central3/www.classcentral.com/images/promobar/celebrate.svg
+07:26:27	Warning: 	Warning: store image/svg+xml without scan: /home/mm/websites/class_central3/ccweb.imgix.net/https_/www.classcentral.com/images/subjects/csc2cc.svg
+07:28:52	Warning: 	Warning: store image/svg+xml without scan: /home/mm/websites/class_central3/ccweb.imgix.net/https_/d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/f7bda83986e6fd97.svg
+07:31:09	Warning: 	Warning: store image/svg+xml without scan: /home/mm/websites/class_central3/ccweb.imgix.net/https_/www.classcentral.com/images/subjects/healthe1dd.svg
+07:34:50	Warning: 	Warning: store image/svg+xml without scan: /home/mm/websites/class_central3/ccweb.imgix.net/https_/www.classcentral.com/images/subjects/sciencedd7d.svg
+07:37:59	Warning: 	Warning: store image/svg+xml without scan: /home/mm/websites/class_central3/ccweb.imgix.net/https_/www.classcentral.com/images/subjects/art-and-designf44b.svg
+07:41:04	Warning: 	Warning: store image/svg+xml without scan: /home/mm/websites/class_central3/ccweb.imgix.net/https_/www.classcentral.com/images/subjects/infosec43f4.svg
+07:42:29	Error: 	"Forbidden" (403) at link https://ccweb.imgix.net/https%3A%2F%2Fd3f1iyfxxz8i1e.cloudfront.net%2Fcourses%2Fcourse_image%2F9c1a1ba8adbd.jpg?auto=format&blur=200&cs=strip&fit=crop&h=380&ixlib=php-3.3.1&px=16&w=535&s=fa0301aa9ae917acf5eb02965010dd6c (from https://www.classcentral.com/subject/infosec)
+08:03:57	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.classcentral.com/report/wp-json/wp/v2/posts/85491
+08:03:59	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.classcentral.com/report/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.classcentral.com%2Freport%2Fcoursera-google-new-deal%2F
+08:03:59	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.classcentral.com/report/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.classcentral.com%2Freport%2Fcoursera-google-new-deal%2F&format=xml
+08:04:04	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.classcentral.com/report/wp-json/wp/v2/posts/85751
+08:04:06	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.classcentral.com/report/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.classcentral.com%2Freport%2Freview-primeros-auxilios-psicologicos%2F
+08:04:07	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.classcentral.com/report/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.classcentral.com%2Freport%2Freview-primeros-auxilios-psicologicos%2F&format=xml
+08:04:09	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.classcentral.com/report/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.classcentral.com%2Freport%2Freview-psychological-first-aid%2F
+08:04:09	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.classcentral.com/report/wp-json/wp/v2/posts/85740
+08:04:10	Warning: 	Warning: store text/css without scan: /home/mm/websites/class_central3/www.classcentral.com/report/wp-content/plugins/wp-user-avatar/assets/css/frontend.min2072.css
+08:04:11	Warning: 	Warning: store text/css without scan: /home/mm/websites/class_central3/www.classcentral.com/report/wp-content/plugins/wp-user-avatar/assets/flatpickr/flatpickr.min2072.css
+08:04:11	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.classcentral.com/report/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.classcentral.com%2Freport%2Freview-psychological-first-aid%2F&format=xml
+08:04:11	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.classcentral.com/report/wp-json/wp/v2/posts/78940
+08:04:12	Warning: 	Warning: store text/css without scan: /home/mm/websites/class_central3/www.classcentral.com/report/wp-content/plugins/wp-user-avatar/assets/select2/select2.min080f.css
+08:04:12	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.classcentral.com/report/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.classcentral.com%2Freport%2Fbest-data-science-courses%2F
+08:04:12	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.classcentral.com/report/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.classcentral.com%2Freport%2Fbest-data-science-courses%2F&format=xml
+08:04:13	Error: 	"" (403) at link https://www.classcentral.com/report/xmlrpc.php?rsd (from https://www.classcentral.com/report/)
+08:04:16	Warning: 	Warning: store image/svg+xml without scan: /home/mm/websites/class_central3/www.classcentral.com/report/wp-content/themes/wp-theme/dist/images/safari-pinned-tab.svg
+08:04:17	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.classcentral.com/report/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.classcentral.com%2Freport%2Fbest-user-experience-courses%2F
+08:04:17	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.classcentral.com/report/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.classcentral.com%2Freport%2Fbest-user-experience-courses%2F&format=xml
+08:04:17	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.classcentral.com/report/wp-json/wp/v2/posts/85701
+08:04:18	Warning: 	Warning: store text/css without scan: /home/mm/websites/class_central3/www.classcentral.com/report/wp-content/themes/wp-theme/dist/webpack/cc-style.1faac0f8c55193cb997a.css
+08:04:23	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.classcentral.com/report/wp-json/wp/v2/posts/85718
+08:04:24	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.classcentral.com/report/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.classcentral.com%2Freport%2Flearning-with-moocs-2023%2F
+08:04:24	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.classcentral.com/report/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.classcentral.com%2Freport%2Flearning-with-moocs-2023%2F&format=xml
+08:06:21	Warning: 	Warning: store image/svg+xml without scan: /home/mm/websites/class_central3/www.classcentral.com/report/wp-content/themes/wp-theme/dist/images/subjects/cs.svg
+08:06:42	Warning: 	Warning: store image/svg+xml without scan: /home/mm/websites/class_central3/www.classcentral.com/report/wp-content/themes/wp-theme/dist/images/subjects/business.svg
+08:06:43	Warning: 	Warning: store image/svg+xml without scan: /home/mm/websites/class_central3/www.classcentral.com/report/wp-content/themes/wp-theme/dist/images/subjects/humanities.svg
+08:06:44	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.classcentral.com/report/wp-json/wp/v2/categories/686
+08:06:45	Warning: 	Warning: store image/svg+xml without scan: /home/mm/websites/class_central3/www.classcentral.com/report/wp-content/themes/wp-theme/dist/images/subjects/data-science.svg
+08:06:46	Warning: 	Warning: store image/svg+xml without scan: /home/mm/websites/class_central3/www.classcentral.com/report/wp-content/themes/wp-theme/dist/images/subjects/personal-development.svg
+08:06:48	Warning: 	Warning: store image/svg+xml without scan: /home/mm/websites/class_central3/www.classcentral.com/report/wp-content/themes/wp-theme/dist/images/subjects/art-and-design.svg
+08:06:49	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.classcentral.com/report/wp-json/wp/v2/posts/84167
+08:06:51	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.classcentral.com/report/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.classcentral.com%2Freport%2Fonline-learning-deals%2F
+08:06:53	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.classcentral.com/report/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.classcentral.com%2Freport%2Fonline-learning-deals%2F&format=xml
+08:07:46	Warning: 	HTML file (488 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/?p=71214
+08:07:48	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.classcentral.com/report/?p=71214 (from https://www.classcentral.com/report/most-popular-online-courses/)
+08:07:58	Warning: 	HTML file (492 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/?p=77094
+08:07:59	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.classcentral.com/report/?p=77094 (from https://www.classcentral.com/report/best-free-online-courses-2022/)
+08:08:15	Warning: 	HTML file (492 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/?p=73773
+08:08:16	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.classcentral.com/report/?p=73773 (from https://www.classcentral.com/report/best-free-online-courses-2021/)
+08:09:22	Warning: 	HTML file (484 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/?p=77063
+08:09:23	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.classcentral.com/report/?p=77063 (from https://www.classcentral.com/report/most-popular-courses-2022/)
+08:09:54	Warning: 	HTML file (506 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/?p=73299
+08:09:55	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.classcentral.com/report/?p=73299 (from https://www.classcentral.com/report/100-most-popular-online-courses-2021/)
+08:12:22	Warning: 	HTML file (490 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/?p=66895
+08:12:24	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.classcentral.com/report/?p=66895 (from https://www.classcentral.com/report/coursera-free-online-courses/)
+08:13:43	Warning: 	HTML file (468 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/?p=74608
+08:13:44	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.classcentral.com/report/?p=74608 (from https://www.classcentral.com/report/free-certificates/)
+08:17:21	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.classcentral.com/report/wp-json/wp/v2/posts/85667
+08:17:21	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.classcentral.com/report/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.classcentral.com%2Freport%2Fcoursera-economics%2F
+08:17:23	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.classcentral.com/report/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.classcentral.com%2Freport%2Fcoursera-economics%2F&format=xml
+08:17:25	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.classcentral.com/report/wp-json/wp/v2/posts/85614
+08:17:26	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.classcentral.com/report/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.classcentral.com%2Freport%2Ffuturelearn-price-hike-ceo-exit%2F
+08:17:27	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.classcentral.com/report/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.classcentral.com%2Freport%2Ffuturelearn-price-hike-ceo-exit%2F&format=xml
+08:17:28	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.classcentral.com/report/wp-json/wp/v2/posts/85564
+08:17:29	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.classcentral.com/report/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.classcentral.com%2Freport%2Fmasterclass-layoffs-round-three%2F
+08:17:30	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.classcentral.com/report/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.classcentral.com%2Freport%2Fmasterclass-layoffs-round-three%2F&format=xml
+08:17:32	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.classcentral.com/report/wp-json/wp/v2/posts/72261
+08:17:32	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.classcentral.com/report/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.classcentral.com%2Freport%2Fmost-cited-mooc-research%2F
+08:17:33	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.classcentral.com/report/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.classcentral.com%2Freport%2Fmost-cited-mooc-research%2F&format=xml
+08:17:36	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.classcentral.com/report/wp-json/wp/v2/posts/84060
+08:17:37	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.classcentral.com/report/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.classcentral.com%2Freport%2Femoocs-2023-cfp%2F&format=xml
+08:17:37	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.classcentral.com/report/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.classcentral.com%2Freport%2Femoocs-2023-cfp%2F
+08:17:38	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.classcentral.com/report/wp-json/wp/v2/posts/85377
+08:17:38	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.classcentral.com/report/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.classcentral.com%2Freport%2Fudemy-layoffs%2F
+08:17:40	Warning: 	HTML file (486 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/?p=74324
+08:17:40	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.classcentral.com/report/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.classcentral.com%2Freport%2Fudemy-layoffs%2F&format=xml
+08:17:40	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.classcentral.com/report/wp-json/wp/v2/posts/85681
+08:17:41	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.classcentral.com/report/?p=74324 (from https://www.classcentral.com/report/free-google-certifications/)
+08:17:41	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.classcentral.com/report/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.classcentral.com%2Freport%2Fbest-crystal-programming-courses%2F
+08:17:42	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.classcentral.com/report/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.classcentral.com%2Freport%2Fbest-crystal-programming-courses%2F&format=xml
+08:17:42	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.classcentral.com/report/wp-json/wp/v2/posts/85571
+08:17:43	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.classcentral.com/report/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.classcentral.com%2Freport%2Fbest-bookkeeping-courses%2F
+08:17:43	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.classcentral.com/report/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.classcentral.com%2Freport%2Fbest-bookkeeping-courses%2F&format=xml
+08:17:44	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.classcentral.com/report/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.classcentral.com%2Freport%2Fbest-css-layout-courses%2F
+08:17:45	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.classcentral.com/report/wp-json/wp/v2/posts/85587
+08:17:45	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.classcentral.com/report/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.classcentral.com%2Freport%2Fbest-css-layout-courses%2F&format=xml
+08:17:48	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.classcentral.com/report/wp-json/wp/v2/posts/73844
+08:17:48	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.classcentral.com/report/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.classcentral.com%2Freport%2Fudemy-top-courses%2F
+08:17:48	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.classcentral.com/report/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.classcentral.com%2Freport%2Fudemy-top-courses%2F&format=xml
+08:17:49	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.classcentral.com/report/wp-json/wp/v2/posts/72109
+08:17:49	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.classcentral.com/report/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.classcentral.com%2Freport%2Findia-online-degrees%2F
+08:17:50	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.classcentral.com/report/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.classcentral.com%2Freport%2Findia-online-degrees%2F&format=xml
+08:17:50	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.classcentral.com/report/wp-json/wp/v2/posts/65630
+08:17:51	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.classcentral.com/report/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.classcentral.com%2Freport%2Fmooc-based-masters-degree%2F
+08:17:52	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.classcentral.com/report/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.classcentral.com%2Freport%2Fmooc-based-masters-degree%2F&format=xml
+08:17:54	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.classcentral.com/report/wp-json/wp/v2/posts/70569
+08:17:54	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.classcentral.com/report/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.classcentral.com%2Freport%2Flist-of-mooc-based-microcredentials%2F
+08:17:54	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.classcentral.com/report/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.classcentral.com%2Freport%2Flist-of-mooc-based-microcredentials%2F&format=xml
+08:17:56	Warning: 	HTML file (480 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/?p=85347
+08:17:57	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.classcentral.com/report/?p=85347 (from https://www.classcentral.com/report/most-popular-march-2023/)
+08:18:00	Warning: 	HTML file (833917 bytes) retransferred due to lack of cache: https://www.classcentral.com/subject/ai?page=2
+08:18:09	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.classcentral.com/subject/ai?page=2 (from https://www.classcentral.com/subject/ai)
+08:21:44	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.classcentral.com/report/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.classcentral.com%2Freport%2Fmost-popular-courses-2023%2F
+08:21:44	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.classcentral.com/report/wp-json/wp/v2/posts/83775
+08:21:45	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.classcentral.com/report/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.classcentral.com%2Freport%2Fmost-popular-courses-2023%2F&format=xml
+08:21:47	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.classcentral.com/report/wp-json/wp/v2/posts/76388
+08:21:48	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.classcentral.com/report/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.classcentral.com%2Freport%2Fcoursera-top-courses%2F&format=xml
+08:21:48	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.classcentral.com/report/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.classcentral.com%2Freport%2Fcoursera-top-courses%2F
+08:21:50	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.classcentral.com/report/wp-json/wp/v2/posts/76369
+08:21:51	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.classcentral.com/report/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.classcentral.com%2Freport%2Fedx-top-courses%2F
+08:21:51	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.classcentral.com/report/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.classcentral.com%2Freport%2Fedx-top-courses%2F&format=xml
+08:21:53	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.classcentral.com/report/wp-json/wp/v2/posts/84384
+08:21:53	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.classcentral.com/report/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.classcentral.com%2Freport%2F2022-year-in-review%2F
+08:21:53	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.classcentral.com/report/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.classcentral.com%2Freport%2F2022-year-in-review%2F&format=xml
+08:21:58	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.classcentral.com/report/wp-json/wp/v2/posts/83561
+08:21:58	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.classcentral.com/report/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.classcentral.com%2Freport%2Fclass-central-ddos-attack%2F
+08:21:58	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.classcentral.com/report/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.classcentral.com%2Freport%2Fclass-central-ddos-attack%2F&format=xml
+08:22:00	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.classcentral.com/report/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.classcentral.com%2Freport%2Fcs50-free-certificate%2F
+08:22:00	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.classcentral.com/report/wp-json/wp/v2/posts/70103
+08:22:01	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.classcentral.com/report/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.classcentral.com%2Freport%2Fcs50-free-certificate%2F&format=xml
+08:22:02	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.classcentral.com/report/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.classcentral.com%2Freport%2Fopen-university-insiders-perspective%2F
+08:22:03	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.classcentral.com/report/wp-json/wp/v2/posts/67197
+08:22:03	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.classcentral.com/report/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.classcentral.com%2Freport%2Fopen-university-insiders-perspective%2F&format=xml
+08:22:06	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.classcentral.com/report/wp-json/wp/v2/posts/72028
+08:22:06	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.classcentral.com/report/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.classcentral.com%2Freport%2Flinkedin-learning-free-learning-paths%2F
+08:22:07	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.classcentral.com/report/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.classcentral.com%2Freport%2Flinkedin-learning-free-learning-paths%2F&format=xml
+08:22:08	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.classcentral.com/report/wp-json/wp/v2/posts/58243
+08:22:09	Error: 	"Forbidden" (403) at link https://ccweb.imgix.net/https%3A%2F%2Fd3f1iyfxxz8i1e.cloudfront.net%2Fcourses%2Fcourse_image%2F7edef2c71a55.jpg?auto=format&blur=200&cs=strip&fit=crop&h=380&ixlib=php-3.3.1&px=16&w=535&s=2a3d64ece3ab489aa639d53afed6cbaf (from https://www.classcentral.com/subject/algorithms-and-data-structures)
+08:22:09	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.classcentral.com/report/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.classcentral.com%2Freport%2Fwriting-free-online-courses%2F
+08:22:09	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.classcentral.com/report/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.classcentral.com%2Freport%2Fwriting-free-online-courses%2F&format=xml
+08:22:13	Warning: 	HTML file (196988 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/most-popular-online-courses/
+08:22:13	Warning: 	HTML file (144474 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/best-free-online-courses-2022/
+08:22:20	Warning: 	HTML file (510115 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/coursera-free-online-courses/
+08:22:22	Warning: 	HTML file (142447 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/author/dhawal/
+08:22:30	Warning: 	HTML file (751849 bytes) retransferred due to lack of cache: https://www.classcentral.com/subject/it-certifications
+08:22:32	Warning: 	HTML file (760818 bytes) retransferred due to lack of cache: https://www.classcentral.com/institution/google
+08:22:43	Warning: 	HTML file (778840 bytes) retransferred due to lack of cache: https://www.classcentral.com/university/harvard
+08:22:46	Warning: 	HTML file (168255 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/best-crystal-programming-courses/
+08:22:54	Warning: 	HTML file (171646 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/best-css-layout-courses/
+08:22:57	Warning: 	HTML file (488 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/?p=71214
+08:22:59	Warning: 	HTML file (492 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/?p=77094
+08:23:00	Warning: 	HTML file (492 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/?p=73773
+08:23:01	Warning: 	HTML file (484 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/?p=77063
+08:23:02	Warning: 	HTML file (506 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/?p=73299
+08:23:03	Warning: 	HTML file (490 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/?p=66895
+08:23:03	Warning: 	HTML file (468 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/?p=74608
+08:23:04	Warning: 	HTML file (486 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/?p=74324
+08:23:04	Warning: 	HTML file (480 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/?p=85347
+08:23:05	Warning: 	HTML file (833917 bytes) retransferred due to lack of cache: https://www.classcentral.com/subject/ai?page=2
+08:23:05	Warning: 	Warning: store image/svg+xml without scan: /home/mm/websites/class_central3/ccweb.imgix.net/https_/d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/78ff14b675e4300a.svg
+08:23:05	Error: 	"Forbidden" (403) at link https://ccweb.imgix.net/https%3A%2F%2Fd3f1iyfxxz8i1e.cloudfront.net%2Fcourses%2Fcourse_image%2Fd9c6f660b564.jpg?auto=format&blur=200&cs=strip&fit=crop&h=380&ixlib=php-3.3.1&px=16&w=535&s=1e526f2a28877c92ef50523e3a2be804 (from https://www.classcentral.com/subject/public-health)
+08:23:05	Error: 	"Forbidden" (403) at link https://ccweb.imgix.net/https%3A%2F%2Fd3f1iyfxxz8i1e.cloudfront.net%2Fcourses%2Fcourse_image%2Ff9c1fd5b33eb.jpg?auto=format&blur=200&cs=strip&fit=crop&h=380&ixlib=php-3.3.1&px=16&w=535&s=c0c691744e99fa3afd1a47507cae53c4 (from https://www.classcentral.com/subject/strategic-management)
+08:23:05	Warning: 	HTML file (771624 bytes) retransferred due to lack of cache: https://www.classcentral.com/subject/accounting?page=2
+08:23:17	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.classcentral.com/subject/accounting?page=2 (from https://www.classcentral.com/subject/accounting)
+08:23:17	Warning: 	HTML file (771624 bytes) retransferred due to lack of cache: https://www.classcentral.com/subject/accounting?page=2
+08:23:17	Warning: 	HTML file (765752 bytes) retransferred due to lack of cache: https://www.classcentral.com/subject/philosophy?page=2
+08:23:18	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.classcentral.com/subject/philosophy?page=2 (from https://www.classcentral.com/subject/philosophy)
+08:23:18	Warning: 	HTML file (765752 bytes) retransferred due to lack of cache: https://www.classcentral.com/subject/philosophy?page=2
+08:23:18	Warning: 	HTML file (774598 bytes) retransferred due to lack of cache: https://www.classcentral.com/subject/culture?page=2
+08:23:19	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.classcentral.com/subject/culture?page=2 (from https://www.classcentral.com/subject/culture)
+08:23:19	Warning: 	HTML file (774598 bytes) retransferred due to lack of cache: https://www.classcentral.com/subject/culture?page=2
+08:23:19	Error: 	"Forbidden" (403) at link https://ccweb.imgix.net/https%3A%2F%2Fd3f1iyfxxz8i1e.cloudfront.net%2Fcourses%2Fcourse_image%2F3969735f8334.jpg?auto=format&blur=200&cs=strip&fit=crop&h=380&ixlib=php-3.3.1&px=16&w=535&s=583f7c329466ff46a208b8c821c7845e (from https://www.classcentral.com/subject/culture)
+08:23:19	Warning: 	HTML file (758378 bytes) retransferred due to lack of cache: https://www.classcentral.com/subject/robotics?page=2
+08:23:20	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.classcentral.com/subject/robotics?page=2 (from https://www.classcentral.com/subject/robotics)
+08:23:20	Warning: 	HTML file (758378 bytes) retransferred due to lack of cache: https://www.classcentral.com/subject/robotics?page=2
+08:23:20	Warning: 	HTML file (770323 bytes) retransferred due to lack of cache: https://www.classcentral.com/subject/cad?page=2
+08:23:21	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.classcentral.com/subject/cad?page=2 (from https://www.classcentral.com/subject/cad)
+08:23:21	Warning: 	HTML file (770323 bytes) retransferred due to lack of cache: https://www.classcentral.com/subject/cad?page=2
+08:23:21	Error: 	"Forbidden" (403) at link https://ccweb.imgix.net/https%3A%2F%2Fd3f1iyfxxz8i1e.cloudfront.net%2Fcourses%2Fcourse_image%2Fa921d43d68ec.jpg?auto=format&blur=200&cs=strip&fit=crop&h=380&ixlib=php-3.3.1&px=16&w=535&s=b012e7c58af064fa45183912ba9c2909 (from https://www.classcentral.com/subject/astronomy)
+08:23:21	Warning: 	HTML file (769691 bytes) retransferred due to lack of cache: https://www.classcentral.com/subject/online-education?page=2
+08:23:22	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.classcentral.com/subject/online-education?page=2 (from https://www.classcentral.com/subject/online-education)
+08:23:22	Warning: 	HTML file (769691 bytes) retransferred due to lack of cache: https://www.classcentral.com/subject/online-education?page=2
+08:23:22	Warning: 	HTML file (769971 bytes) retransferred due to lack of cache: https://www.classcentral.com/subject/political-science?page=2
+08:23:23	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.classcentral.com/subject/political-science?page=2 (from https://www.classcentral.com/subject/political-science)
+08:23:23	Warning: 	HTML file (769971 bytes) retransferred due to lack of cache: https://www.classcentral.com/subject/political-science?page=2
+08:23:23	Warning: 	HTML file (749386 bytes) retransferred due to lack of cache: https://www.classcentral.com/subject/childhood-development?page=2
+08:23:24	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.classcentral.com/subject/childhood-development?page=2 (from https://www.classcentral.com/subject/childhood-development)
+08:23:24	Warning: 	HTML file (749386 bytes) retransferred due to lack of cache: https://www.classcentral.com/subject/childhood-development?page=2
+08:23:24	Warning: 	Warning: store image/svg+xml without scan: /home/mm/websites/class_central3/ccweb.imgix.net/https_/d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/1e1e302747706224.svg
+08:23:24	Warning: 	Warning: store image/svg+xml without scan: /home/mm/websites/class_central3/ccweb.imgix.net/https_/d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/e0f093e2f647d665.svg
+08:23:24	Warning: 	HTML file (482 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/?p=85491
+08:23:25	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.classcentral.com/report/?p=85491 (from https://www.classcentral.com/report/coursera-google-new-deal/)
+08:23:25	Warning: 	HTML file (55000 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/author/page/2/
+08:23:25	Warning: 	HTML file (482 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/?p=85491
+08:23:26	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.classcentral.com/report/author/page/2/ (from https://www.classcentral.com/report/author/dhawal/)
+08:23:26	Warning: 	HTML file (55000 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/author/page/2/
+08:23:26	Warning: 	HTML file (508 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/?p=85751
+08:23:27	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.classcentral.com/report/?p=85751 (from https://www.classcentral.com/report/review-primeros-auxilios-psicologicos/)
+08:23:27	Warning: 	HTML file (494 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/?p=85740
+08:23:27	Warning: 	HTML file (508 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/?p=85751
+08:23:28	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.classcentral.com/report/?p=85740 (from https://www.classcentral.com/report/review-psychological-first-aid/)
+08:23:28	Warning: 	HTML file (484 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/?p=78940
+08:23:28	Warning: 	HTML file (494 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/?p=85740
+08:23:29	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.classcentral.com/report/?p=78940 (from https://www.classcentral.com/report/best-data-science-courses/)
+08:23:29	Warning: 	HTML file (484 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/?p=78940
+08:23:29	Warning: 	HTML file (490 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/?p=85701
+08:23:30	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.classcentral.com/report/?p=85701 (from https://www.classcentral.com/report/best-user-experience-courses/)
+08:23:30	Warning: 	HTML file (490 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/?p=85701
+08:23:30	Warning: 	HTML file (482 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/?p=85718
+08:23:31	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.classcentral.com/report/?p=85718 (from https://www.classcentral.com/report/learning-with-moocs-2023/)
+08:23:31	Warning: 	HTML file (482 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/?p=85718
+08:23:31	Error: 	"Forbidden" (403) at link https://ccweb.imgix.net/https%3A%2F%2Fd3f1iyfxxz8i1e.cloudfront.net%2Fcourses%2Fcourse_image%2Fe988eccaf953.png?auto=format&blur=200&cs=strip&fit=crop&h=380&ixlib=php-3.3.1&px=16&w=535&s=cf6fe3f68c3f3c2784f64dbfe12c4e77 (from https://www.classcentral.com/collection/sustainability-online-courses)
+08:23:33	Warning: 	HTML file (140650 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/category/best-courses/page/2/
+08:23:34	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.classcentral.com/report/category/best-courses/page/2/ (from https://www.classcentral.com/report/category/best-courses/)
+08:23:34	Warning: 	HTML file (140650 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/category/best-courses/page/2/
+08:23:34	Warning: 	HTML file (476 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/?p=84167
+08:23:35	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.classcentral.com/report/?p=84167 (from https://www.classcentral.com/report/online-learning-deals/)
+08:23:35	Warning: 	HTML file (476 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/?p=84167
+08:23:35	Warning: 	Warning: store image/svg+xml without scan: /home/mm/websites/class_central3/www.classcentral.com/images/promobar/badge-yellow.svg
+08:23:36	Warning: 	HTML file (739702 bytes) retransferred due to lack of cache: https://www.classcentral.com/university/iitm?page=2
+08:23:37	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.classcentral.com/university/iitm?page=2 (from https://www.classcentral.com/university/iitm)
+08:23:37	Warning: 	HTML file (739702 bytes) retransferred due to lack of cache: https://www.classcentral.com/university/iitm?page=2
+08:23:37	Warning: 	HTML file (825367 bytes) retransferred due to lack of cache: https://www.classcentral.com/provider/coursera?page=2
+08:23:38	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.classcentral.com/provider/coursera?page=2 (from https://www.classcentral.com/provider/coursera)
+08:23:38	Warning: 	HTML file (825367 bytes) retransferred due to lack of cache: https://www.classcentral.com/provider/coursera?page=2
+08:23:38	Warning: 	HTML file (844497 bytes) retransferred due to lack of cache: https://www.classcentral.com/provider/edx?page=2
+08:23:39	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.classcentral.com/provider/edx?page=2 (from https://www.classcentral.com/provider/edx)
+08:23:39	Warning: 	HTML file (844497 bytes) retransferred due to lack of cache: https://www.classcentral.com/provider/edx?page=2
+08:23:39	Warning: 	HTML file (470 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/?p=85667
+08:23:41	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.classcentral.com/report/?p=85667 (from https://www.classcentral.com/report/coursera-economics/)
+08:23:41	Warning: 	HTML file (470 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/?p=85667
+08:23:41	Warning: 	HTML file (496 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/?p=85614
+08:23:42	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.classcentral.com/report/?p=85614 (from https://www.classcentral.com/report/futurelearn-price-hike-ceo-exit/)
+08:23:42	Warning: 	HTML file (496 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/?p=85614
+08:23:43	Warning: 	HTML file (496 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/?p=85564
+08:23:44	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.classcentral.com/report/?p=85564 (from https://www.classcentral.com/report/masterclass-layoffs-round-three/)
+08:23:44	Warning: 	HTML file (496 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/?p=85564
+08:23:44	Warning: 	HTML file (482 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/?p=72261
+08:23:45	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.classcentral.com/report/?p=72261 (from https://www.classcentral.com/report/most-cited-mooc-research/)
+08:23:45	Warning: 	HTML file (482 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/?p=72261
+08:23:45	Warning: 	HTML file (464 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/?p=84060
+08:23:46	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.classcentral.com/report/?p=84060 (from https://www.classcentral.com/report/emoocs-2023-cfp/)
+08:23:46	Warning: 	HTML file (460 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/?p=85377
+08:23:46	Warning: 	HTML file (464 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/?p=84060
+08:23:47	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.classcentral.com/report/?p=85377 (from https://www.classcentral.com/report/udemy-layoffs/)
+08:23:47	Warning: 	HTML file (460 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/?p=85377
+08:23:47	Warning: 	HTML file (498 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/?p=85681
+08:23:48	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.classcentral.com/report/?p=85681 (from https://www.classcentral.com/report/best-crystal-programming-courses/)
+08:23:48	Warning: 	HTML file (498 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/?p=85681
+08:23:48	Warning: 	HTML file (482 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/?p=85571
+08:23:49	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.classcentral.com/report/?p=85571 (from https://www.classcentral.com/report/best-bookkeeping-courses/)
+08:23:49	Warning: 	HTML file (482 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/?p=85571
+08:23:49	Warning: 	HTML file (480 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/?p=85587
+08:23:50	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.classcentral.com/report/?p=85587 (from https://www.classcentral.com/report/best-css-layout-courses/)
+08:23:50	Warning: 	HTML file (480 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/?p=85587
+08:23:50	Warning: 	HTML file (468 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/?p=73844
+08:23:51	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.classcentral.com/report/?p=73844 (from https://www.classcentral.com/report/udemy-top-courses/)
+08:23:51	Warning: 	HTML file (468 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/?p=73844
+08:23:51	Warning: 	HTML file (474 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/?p=72109
+08:23:52	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.classcentral.com/report/?p=72109 (from https://www.classcentral.com/report/india-online-degrees/)
+08:23:52	Warning: 	HTML file (474 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/?p=72109
+08:23:52	Warning: 	HTML file (484 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/?p=65630
+08:23:53	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.classcentral.com/report/?p=65630 (from https://www.classcentral.com/report/mooc-based-masters-degree/)
+08:23:53	Warning: 	HTML file (484 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/?p=65630
+08:23:54	Warning: 	HTML file (504 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/?p=70569
+08:23:55	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.classcentral.com/report/?p=70569 (from https://www.classcentral.com/report/list-of-mooc-based-microcredentials/)
+08:23:55	Warning: 	HTML file (736625 bytes) retransferred due to lack of cache: https://www.classcentral.com/provider/udacity?page=2
+08:23:55	Warning: 	HTML file (504 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/?p=70569
+08:23:56	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.classcentral.com/provider/udacity?page=2 (from https://www.classcentral.com/provider/udacity)
+08:23:56	Warning: 	HTML file (736625 bytes) retransferred due to lack of cache: https://www.classcentral.com/provider/udacity?page=2
+08:23:56	Warning: 	HTML file (735210 bytes) retransferred due to lack of cache: https://www.classcentral.com/institution/salesforce?page=2
+08:23:57	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.classcentral.com/institution/salesforce?page=2 (from https://www.classcentral.com/institution/salesforce)
+08:23:57	Warning: 	HTML file (735210 bytes) retransferred due to lack of cache: https://www.classcentral.com/institution/salesforce?page=2
+08:23:58	Warning: 	HTML file (484 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/?p=83775
+08:23:59	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.classcentral.com/report/?p=83775 (from https://www.classcentral.com/report/most-popular-courses-2023/)
+08:23:59	Warning: 	HTML file (474 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/?p=76388
+08:23:59	Warning: 	HTML file (484 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/?p=83775
+08:24:00	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.classcentral.com/report/?p=76388 (from https://www.classcentral.com/report/coursera-top-courses/)
+08:24:00	Warning: 	HTML file (474 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/?p=76388
+08:24:01	Warning: 	HTML file (464 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/?p=76369
+08:24:02	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.classcentral.com/report/?p=76369 (from https://www.classcentral.com/report/edx-top-courses/)
+08:24:02	Warning: 	HTML file (464 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/?p=76369
+08:24:02	Warning: 	HTML file (472 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/?p=84384
+08:24:02	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.classcentral.com/report/?p=84384 (from https://www.classcentral.com/report/2022-year-in-review/)
+08:24:02	Warning: 	HTML file (472 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/?p=84384
+08:24:02	Warning: 	HTML file (484 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/?p=83561
+08:24:04	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.classcentral.com/report/?p=83561 (from https://www.classcentral.com/report/class-central-ddos-attack/)
+08:24:04	Warning: 	HTML file (484 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/?p=83561
+08:24:04	Warning: 	HTML file (476 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/?p=70103
+08:24:05	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.classcentral.com/report/?p=70103 (from https://www.classcentral.com/report/cs50-free-certificate/)
+08:24:05	Warning: 	HTML file (476 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/?p=70103
+08:24:05	Warning: 	HTML file (506 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/?p=67197
+08:24:06	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.classcentral.com/report/?p=67197 (from https://www.classcentral.com/report/open-university-insiders-perspective/)
+08:24:06	Warning: 	HTML file (506 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/?p=67197
+08:24:06	Warning: 	HTML file (508 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/?p=72028
+08:24:07	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.classcentral.com/report/?p=72028 (from https://www.classcentral.com/report/linkedin-learning-free-learning-paths/)
+08:24:07	Warning: 	HTML file (508 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/?p=72028
+08:24:08	Warning: 	HTML file (488 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/?p=58243
+08:24:09	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.classcentral.com/report/?p=58243 (from https://www.classcentral.com/report/writing-free-online-courses/)
+08:24:09	Warning: 	HTML file (488 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/?p=58243
+08:24:10	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.classcentral.com/report/most-popular-online-courses/ (from https://www.classcentral.com/)
+08:24:10	Warning: 	HTML file (196988 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/most-popular-online-courses/
+08:24:10	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.classcentral.com/report/best-free-online-courses-2022/ (from https://www.classcentral.com/)
+08:24:10	Warning: 	HTML file (144474 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/best-free-online-courses-2022/
+08:24:10	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.classcentral.com/report/coursera-free-online-courses/ (from https://www.classcentral.com/)
+08:24:10	Warning: 	HTML file (510115 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/coursera-free-online-courses/
+08:24:10	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.classcentral.com/report/author/dhawal/ (from https://www.classcentral.com/)
+08:24:10	Warning: 	HTML file (142447 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/author/dhawal/
+08:24:17	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.classcentral.com/subject/it-certifications (from https://www.classcentral.com/)
+08:24:17	Warning: 	HTML file (751849 bytes) retransferred due to lack of cache: https://www.classcentral.com/subject/it-certifications
+08:24:18	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.classcentral.com/institution/google (from https://www.classcentral.com/)
+08:24:18	Warning: 	HTML file (760818 bytes) retransferred due to lack of cache: https://www.classcentral.com/institution/google
+08:24:19	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.classcentral.com/university/harvard (from https://www.classcentral.com/)
+08:24:19	Warning: 	HTML file (778840 bytes) retransferred due to lack of cache: https://www.classcentral.com/university/harvard
+08:24:21	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.classcentral.com/report/best-crystal-programming-courses/ (from https://www.classcentral.com/)
+08:24:21	Warning: 	HTML file (168255 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/best-crystal-programming-courses/
+08:24:30	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.classcentral.com/report/best-css-layout-courses/ (from https://www.classcentral.com/)
+08:24:30	Warning: 	HTML file (171646 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/best-css-layout-courses/
+08:24:31	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.classcentral.com/report/?p=71214 (from https://www.classcentral.com/report/most-popular-online-courses/)
+08:24:31	Warning: 	HTML file (488 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/?p=71214
+08:24:32	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.classcentral.com/report/?p=77094 (from https://www.classcentral.com/report/best-free-online-courses-2022/)
+08:24:32	Warning: 	HTML file (492 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/?p=77094
+08:24:32	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.classcentral.com/report/?p=73773 (from https://www.classcentral.com/report/best-free-online-courses-2021/)
+08:24:32	Warning: 	HTML file (492 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/?p=73773
+08:24:33	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.classcentral.com/report/?p=77063 (from https://www.classcentral.com/report/most-popular-courses-2022/)
+08:24:33	Warning: 	HTML file (484 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/?p=77063
+08:24:33	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.classcentral.com/report/?p=73299 (from https://www.classcentral.com/report/100-most-popular-online-courses-2021/)
+08:24:33	Warning: 	HTML file (506 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/?p=73299
+08:24:33	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.classcentral.com/report/?p=66895 (from https://www.classcentral.com/report/coursera-free-online-courses/)
+08:24:33	Warning: 	HTML file (490 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/?p=66895
+08:24:34	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.classcentral.com/report/?p=74608 (from https://www.classcentral.com/report/free-certificates/)
+08:24:34	Warning: 	HTML file (468 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/?p=74608
+08:24:34	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.classcentral.com/report/?p=74324 (from https://www.classcentral.com/report/free-google-certifications/)
+08:24:34	Warning: 	HTML file (486 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/?p=74324
+08:24:34	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.classcentral.com/report/?p=85347 (from https://www.classcentral.com/report/most-popular-march-2023/)
+08:24:34	Warning: 	HTML file (480 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/?p=85347
+08:24:35	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.classcentral.com/subject/ai?page=2 (from https://www.classcentral.com/subject/ai)
+08:24:35	Warning: 	HTML file (833917 bytes) retransferred due to lack of cache: https://www.classcentral.com/subject/ai?page=2
+08:24:35	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.classcentral.com/subject/accounting?page=2 (from https://www.classcentral.com/subject/accounting)
+08:24:35	Warning: 	HTML file (771624 bytes) retransferred due to lack of cache: https://www.classcentral.com/subject/accounting?page=2
+08:24:36	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.classcentral.com/subject/philosophy?page=2 (from https://www.classcentral.com/subject/philosophy)
+08:24:36	Warning: 	HTML file (765752 bytes) retransferred due to lack of cache: https://www.classcentral.com/subject/philosophy?page=2
+08:24:38	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.classcentral.com/subject/culture?page=2 (from https://www.classcentral.com/subject/culture)
+08:24:38	Warning: 	HTML file (774598 bytes) retransferred due to lack of cache: https://www.classcentral.com/subject/culture?page=2
+08:24:39	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.classcentral.com/subject/robotics?page=2 (from https://www.classcentral.com/subject/robotics)
+08:24:39	Warning: 	HTML file (758378 bytes) retransferred due to lack of cache: https://www.classcentral.com/subject/robotics?page=2
+08:24:49	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.classcentral.com/subject/cad?page=2 (from https://www.classcentral.com/subject/cad)
+08:24:49	Warning: 	HTML file (770323 bytes) retransferred due to lack of cache: https://www.classcentral.com/subject/cad?page=2
+08:24:49	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.classcentral.com/subject/online-education?page=2 (from https://www.classcentral.com/subject/online-education)
+08:24:49	Warning: 	HTML file (769691 bytes) retransferred due to lack of cache: https://www.classcentral.com/subject/online-education?page=2
+08:24:50	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.classcentral.com/subject/political-science?page=2 (from https://www.classcentral.com/subject/political-science)
+08:24:50	Warning: 	HTML file (769971 bytes) retransferred due to lack of cache: https://www.classcentral.com/subject/political-science?page=2
+08:24:50	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.classcentral.com/subject/childhood-development?page=2 (from https://www.classcentral.com/subject/childhood-development)
+08:24:50	Warning: 	HTML file (749386 bytes) retransferred due to lack of cache: https://www.classcentral.com/subject/childhood-development?page=2
+08:24:50	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.classcentral.com/report/?p=85491 (from https://www.classcentral.com/report/coursera-google-new-deal/)
+08:24:50	Warning: 	HTML file (482 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/?p=85491
+08:24:51	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.classcentral.com/report/author/page/2/ (from https://www.classcentral.com/report/author/dhawal/)
+08:24:51	Warning: 	HTML file (55000 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/author/page/2/
+08:24:51	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.classcentral.com/report/?p=85751 (from https://www.classcentral.com/report/review-primeros-auxilios-psicologicos/)
+08:24:51	Warning: 	HTML file (508 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/?p=85751
+08:24:51	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.classcentral.com/report/?p=85740 (from https://www.classcentral.com/report/review-psychological-first-aid/)
+08:24:51	Warning: 	HTML file (494 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/?p=85740
+08:24:52	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.classcentral.com/report/?p=78940 (from https://www.classcentral.com/report/best-data-science-courses/)
+08:24:52	Warning: 	HTML file (484 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/?p=78940
+08:24:52	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.classcentral.com/report/?p=85701 (from https://www.classcentral.com/report/best-user-experience-courses/)
+08:24:52	Warning: 	HTML file (490 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/?p=85701
+08:24:53	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.classcentral.com/report/?p=85718 (from https://www.classcentral.com/report/learning-with-moocs-2023/)
+08:24:53	Warning: 	HTML file (482 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/?p=85718
+08:24:54	Warning: 	Retry after error -4 (No data (connection closed)) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/745fbcc79687. (from https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/745fbcc79687.)
+08:24:54	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.classcentral.com/report/category/best-courses/page/2/ (from https://www.classcentral.com/report/category/best-courses/)
+08:24:54	Warning: 	HTML file (140650 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/category/best-courses/page/2/
+08:24:54	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.classcentral.com/report/?p=84167 (from https://www.classcentral.com/report/online-learning-deals/)
+08:24:54	Warning: 	HTML file (476 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/?p=84167
+08:24:55	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.classcentral.com/university/iitm?page=2 (from https://www.classcentral.com/university/iitm)
+08:24:55	Warning: 	HTML file (739702 bytes) retransferred due to lack of cache: https://www.classcentral.com/university/iitm?page=2
+08:24:56	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.classcentral.com/provider/coursera?page=2 (from https://www.classcentral.com/provider/coursera)
+08:24:56	Warning: 	HTML file (825367 bytes) retransferred due to lack of cache: https://www.classcentral.com/provider/coursera?page=2
+08:24:56	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.classcentral.com/provider/edx?page=2 (from https://www.classcentral.com/provider/edx)
+08:24:56	Warning: 	HTML file (844497 bytes) retransferred due to lack of cache: https://www.classcentral.com/provider/edx?page=2
+08:24:56	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.classcentral.com/report/?p=85667 (from https://www.classcentral.com/report/coursera-economics/)
+08:24:56	Warning: 	HTML file (470 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/?p=85667
+08:24:58	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.classcentral.com/report/?p=85614 (from https://www.classcentral.com/report/futurelearn-price-hike-ceo-exit/)
+08:24:58	Warning: 	HTML file (496 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/?p=85614
+08:24:58	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.classcentral.com/report/?p=85564 (from https://www.classcentral.com/report/masterclass-layoffs-round-three/)
+08:24:58	Warning: 	HTML file (496 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/?p=85564
+08:24:58	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.classcentral.com/report/?p=72261 (from https://www.classcentral.com/report/most-cited-mooc-research/)
+08:24:58	Warning: 	HTML file (482 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/?p=72261
+08:24:59	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.classcentral.com/report/?p=84060 (from https://www.classcentral.com/report/emoocs-2023-cfp/)
+08:24:59	Warning: 	HTML file (464 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/?p=84060
+08:24:59	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.classcentral.com/report/?p=85377 (from https://www.classcentral.com/report/udemy-layoffs/)
+08:24:59	Warning: 	HTML file (460 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/?p=85377
+08:24:59	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.classcentral.com/report/?p=85681 (from https://www.classcentral.com/report/best-crystal-programming-courses/)
+08:24:59	Warning: 	HTML file (498 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/?p=85681
+08:25:00	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.classcentral.com/report/?p=85571 (from https://www.classcentral.com/report/best-bookkeeping-courses/)
+08:25:00	Warning: 	HTML file (482 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/?p=85571
+08:25:00	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.classcentral.com/report/?p=85587 (from https://www.classcentral.com/report/best-css-layout-courses/)
+08:25:00	Warning: 	HTML file (480 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/?p=85587
+08:25:00	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.classcentral.com/report/?p=73844 (from https://www.classcentral.com/report/udemy-top-courses/)
+08:25:00	Warning: 	HTML file (468 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/?p=73844
+08:25:01	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.classcentral.com/report/?p=72109 (from https://www.classcentral.com/report/india-online-degrees/)
+08:25:01	Warning: 	HTML file (474 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/?p=72109
+08:25:01	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.classcentral.com/report/?p=65630 (from https://www.classcentral.com/report/mooc-based-masters-degree/)
+08:25:01	Warning: 	HTML file (484 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/?p=65630
+08:25:01	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.classcentral.com/report/?p=70569 (from https://www.classcentral.com/report/list-of-mooc-based-microcredentials/)
+08:25:01	Warning: 	HTML file (504 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/?p=70569
+08:25:02	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.classcentral.com/provider/udacity?page=2 (from https://www.classcentral.com/provider/udacity)
+08:25:02	Warning: 	HTML file (736625 bytes) retransferred due to lack of cache: https://www.classcentral.com/provider/udacity?page=2
+08:25:03	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.classcentral.com/institution/salesforce?page=2 (from https://www.classcentral.com/institution/salesforce)
+08:25:03	Warning: 	HTML file (735210 bytes) retransferred due to lack of cache: https://www.classcentral.com/institution/salesforce?page=2
+08:25:03	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.classcentral.com/report/?p=83775 (from https://www.classcentral.com/report/most-popular-courses-2023/)
+08:25:03	Warning: 	HTML file (484 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/?p=83775
+08:25:03	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.classcentral.com/report/?p=76388 (from https://www.classcentral.com/report/coursera-top-courses/)
+08:25:03	Warning: 	HTML file (474 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/?p=76388
+08:25:03	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.classcentral.com/report/?p=76369 (from https://www.classcentral.com/report/edx-top-courses/)
+08:25:03	Warning: 	HTML file (464 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/?p=76369
+08:25:04	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.classcentral.com/report/?p=84384 (from https://www.classcentral.com/report/2022-year-in-review/)
+08:25:04	Warning: 	HTML file (472 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/?p=84384
+08:25:04	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.classcentral.com/report/?p=83561 (from https://www.classcentral.com/report/class-central-ddos-attack/)
+08:25:04	Warning: 	HTML file (484 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/?p=83561
+08:25:04	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.classcentral.com/report/?p=70103 (from https://www.classcentral.com/report/cs50-free-certificate/)
+08:25:04	Warning: 	HTML file (476 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/?p=70103
+08:25:05	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.classcentral.com/report/?p=67197 (from https://www.classcentral.com/report/open-university-insiders-perspective/)
+08:25:05	Warning: 	HTML file (506 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/?p=67197
+08:25:05	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.classcentral.com/report/?p=72028 (from https://www.classcentral.com/report/linkedin-learning-free-learning-paths/)
+08:25:05	Warning: 	HTML file (508 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/?p=72028
+08:25:06	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.classcentral.com/report/?p=58243 (from https://www.classcentral.com/report/writing-free-online-courses/)
+08:25:06	Warning: 	HTML file (488 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/?p=58243
+08:25:07	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.classcentral.com/report/most-popular-online-courses/ (from https://www.classcentral.com/)
+08:25:07	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.classcentral.com/report/best-free-online-courses-2022/ (from https://www.classcentral.com/)
+08:25:07	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.classcentral.com/report/coursera-free-online-courses/ (from https://www.classcentral.com/)
+08:25:07	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.classcentral.com/report/author/dhawal/ (from https://www.classcentral.com/)
+08:25:07	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.classcentral.com/subject/it-certifications (from https://www.classcentral.com/)
+08:25:07	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.classcentral.com/institution/google (from https://www.classcentral.com/)
+08:25:07	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.classcentral.com/university/harvard (from https://www.classcentral.com/)
+08:25:07	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.classcentral.com/report/best-crystal-programming-courses/ (from https://www.classcentral.com/)
+08:25:07	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.classcentral.com/report/best-css-layout-courses/ (from https://www.classcentral.com/)
+08:25:07	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://www.classcentral.com/report/?p=71214 (from https://www.classcentral.com/report/most-popular-online-courses/)
+08:25:07	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://www.classcentral.com/report/?p=77094 (from https://www.classcentral.com/report/best-free-online-courses-2022/)
+08:25:07	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://www.classcentral.com/report/?p=73773 (from https://www.classcentral.com/report/best-free-online-courses-2021/)
+08:25:07	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://www.classcentral.com/report/?p=77063 (from https://www.classcentral.com/report/most-popular-courses-2022/)
+08:25:07	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://www.classcentral.com/report/?p=73299 (from https://www.classcentral.com/report/100-most-popular-online-courses-2021/)
+08:25:07	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://www.classcentral.com/report/?p=66895 (from https://www.classcentral.com/report/coursera-free-online-courses/)
+08:25:07	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://www.classcentral.com/report/?p=74608 (from https://www.classcentral.com/report/free-certificates/)
+08:25:07	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://www.classcentral.com/report/?p=74324 (from https://www.classcentral.com/report/free-google-certifications/)
+08:25:07	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://www.classcentral.com/report/?p=85347 (from https://www.classcentral.com/report/most-popular-march-2023/)
+08:25:07	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.classcentral.com/subject/ai?page=2 (from https://www.classcentral.com/subject/ai)
+08:25:07	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.classcentral.com/subject/accounting?page=2 (from https://www.classcentral.com/subject/accounting)
+08:25:07	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.classcentral.com/subject/philosophy?page=2 (from https://www.classcentral.com/subject/philosophy)
+08:25:07	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.classcentral.com/subject/culture?page=2 (from https://www.classcentral.com/subject/culture)
+08:25:07	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.classcentral.com/subject/robotics?page=2 (from https://www.classcentral.com/subject/robotics)
+08:25:07	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://www.classcentral.com/subject/cad?page=2 (from https://www.classcentral.com/subject/cad)
+08:25:07	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://www.classcentral.com/subject/online-education?page=2 (from https://www.classcentral.com/subject/online-education)
+08:25:07	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://www.classcentral.com/subject/political-science?page=2 (from https://www.classcentral.com/subject/political-science)
+08:25:07	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://www.classcentral.com/subject/childhood-development?page=2 (from https://www.classcentral.com/subject/childhood-development)
+08:25:07	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://www.classcentral.com/report/?p=85491 (from https://www.classcentral.com/report/coursera-google-new-deal/)
+08:25:07	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.classcentral.com/report/author/page/2/ (from https://www.classcentral.com/report/author/dhawal/)
+08:25:07	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://www.classcentral.com/report/?p=85751 (from https://www.classcentral.com/report/review-primeros-auxilios-psicologicos/)
+08:25:07	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://www.classcentral.com/report/?p=85740 (from https://www.classcentral.com/report/review-psychological-first-aid/)
+08:25:07	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://www.classcentral.com/report/?p=78940 (from https://www.classcentral.com/report/best-data-science-courses/)
+08:25:07	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://www.classcentral.com/report/?p=85701 (from https://www.classcentral.com/report/best-user-experience-courses/)
+08:25:07	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://www.classcentral.com/report/?p=85718 (from https://www.classcentral.com/report/learning-with-moocs-2023/)
+08:25:07	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.classcentral.com/report/category/best-courses/page/2/ (from https://www.classcentral.com/report/category/best-courses/)
+08:25:07	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://www.classcentral.com/report/?p=84167 (from https://www.classcentral.com/report/online-learning-deals/)
+08:25:07	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://www.classcentral.com/university/iitm?page=2 (from https://www.classcentral.com/university/iitm)
+08:25:07	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.classcentral.com/provider/coursera?page=2 (from https://www.classcentral.com/provider/coursera)
+08:25:07	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.classcentral.com/provider/edx?page=2 (from https://www.classcentral.com/provider/edx)
+08:25:07	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://www.classcentral.com/report/?p=85667 (from https://www.classcentral.com/report/coursera-economics/)
+08:25:07	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://www.classcentral.com/report/?p=85614 (from https://www.classcentral.com/report/futurelearn-price-hike-ceo-exit/)
+08:25:07	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://www.classcentral.com/report/?p=85564 (from https://www.classcentral.com/report/masterclass-layoffs-round-three/)
+08:25:07	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://www.classcentral.com/report/?p=72261 (from https://www.classcentral.com/report/most-cited-mooc-research/)
+08:25:07	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://www.classcentral.com/report/?p=84060 (from https://www.classcentral.com/report/emoocs-2023-cfp/)
+08:25:07	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://www.classcentral.com/report/?p=85377 (from https://www.classcentral.com/report/udemy-layoffs/)
+08:25:07	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://www.classcentral.com/report/?p=85681 (from https://www.classcentral.com/report/best-crystal-programming-courses/)
+08:25:07	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://www.classcentral.com/report/?p=85571 (from https://www.classcentral.com/report/best-bookkeeping-courses/)
+08:25:07	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://www.classcentral.com/report/?p=85587 (from https://www.classcentral.com/report/best-css-layout-courses/)
+08:25:07	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://www.classcentral.com/report/?p=73844 (from https://www.classcentral.com/report/udemy-top-courses/)
+08:25:07	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://www.classcentral.com/report/?p=72109 (from https://www.classcentral.com/report/india-online-degrees/)
+08:25:07	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://www.classcentral.com/report/?p=65630 (from https://www.classcentral.com/report/mooc-based-masters-degree/)
+08:25:07	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://www.classcentral.com/report/?p=70569 (from https://www.classcentral.com/report/list-of-mooc-based-microcredentials/)
+08:25:07	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://www.classcentral.com/provider/udacity?page=2 (from https://www.classcentral.com/provider/udacity)
+08:25:07	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.classcentral.com/institution/salesforce?page=2 (from https://www.classcentral.com/institution/salesforce)
+08:25:07	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://www.classcentral.com/report/?p=83775 (from https://www.classcentral.com/report/most-popular-courses-2023/)
+08:25:07	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://www.classcentral.com/report/?p=76388 (from https://www.classcentral.com/report/coursera-top-courses/)
+08:25:07	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://www.classcentral.com/report/?p=76369 (from https://www.classcentral.com/report/edx-top-courses/)
+08:25:07	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://www.classcentral.com/report/?p=84384 (from https://www.classcentral.com/report/2022-year-in-review/)
+08:25:07	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://www.classcentral.com/report/?p=83561 (from https://www.classcentral.com/report/class-central-ddos-attack/)
+08:25:07	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://www.classcentral.com/report/?p=70103 (from https://www.classcentral.com/report/cs50-free-certificate/)
+08:25:07	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://www.classcentral.com/report/?p=67197 (from https://www.classcentral.com/report/open-university-insiders-perspective/)
+08:25:07	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://www.classcentral.com/report/?p=72028 (from https://www.classcentral.com/report/linkedin-learning-free-learning-paths/)
+08:25:07	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://www.classcentral.com/report/?p=58243 (from https://www.classcentral.com/report/writing-free-online-courses/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 hours 5 minutes 35 seconds : 3008 links scanned, 2992 files written (280688674 bytes overall) [160664808 bytes received at 21322 bytes/sec], 160649833 bytes transferred using HTTP compression in 509 files, ratio 14%, 3.5 requests per connection
+(196 errors, 656 warnings, 0 messages)
