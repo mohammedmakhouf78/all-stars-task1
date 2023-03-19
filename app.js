@@ -5,12 +5,21 @@ const Node = new JSDOM('').window.Node;
 const puppeteer = require('puppeteer');
 
 
+let words = {
+    
+}
+
 
 async function getTranslation(text) {
     const browser = await puppeteer.launch();
     const page = await browser.newPage();
+    text = text.trim()
 
-    if(text.trim() == 'classcentral.com')
+    if(words.hasOwnProperty(text)){
+        return words[text]
+    }
+
+    if(text == 'classcentral.com')
     {
         return text;
     }
@@ -32,6 +41,7 @@ async function getTranslation(text) {
 
     await browser.close();
 
+    words[text] = value
     return value;
 }
 
@@ -55,7 +65,7 @@ let Files = [
     // "www.classcentral.com/cdn-cgi/l/email-protection.html",
     // "www.classcentral.com/collection/ivy-league-moocs/index.html",
     // "www.classcentral.com/collection/ivy-league-moocs.html",
-    "www.classcentral.com/collection/sustainability-online-courses.html",
+    // "www.classcentral.com/collection/sustainability-online-courses.html",
     "www.classcentral.com/collection/top-free-online-courses.html",
     "www.classcentral.com/collections.html",
     "www.classcentral.com/contact.html",
@@ -510,12 +520,9 @@ let childNodes = [];
 translateAll()
 
 async function translatePlease(childNodes){
-    let count = 0;
     for (const childNode of childNodes) {
         await sleep(1000)
-        console.log(childNode.textContent);
         childNode.textContent = await getTranslation(childNode.textContent)
-        console.log(`translated ${++count} ${childNode.textContent}`);
     }
 }
 
@@ -523,7 +530,6 @@ async function translatePlease(childNodes){
 async function translateAll(){
     for (const fileName of Files)
     {
-        console.log(`Starting translation of: ${fileName}`);
         let html = FS.readFileSync(fileName, "utf-8");
         const dom = new JSDOM(html);
         childNodes = [];
@@ -533,11 +539,11 @@ async function translateAll(){
         await translatePlease(childNodes)
         let serializedHTML = dom.serialize()
 
-        console.log("done with translating all the file: " + fileName);
 
         FS.writeFileSync(fileName, serializedHTML)
-
-        console.log("Success");
+        
+        console.log("done with translating all the file: " + fileName);
+        console.log(words);
     }
 }
 
