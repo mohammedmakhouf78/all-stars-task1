@@ -10,6 +10,11 @@
   "license": "ISC",
   "dependencies": {
     "glob": "^9.3.0",
-    "jsdom": "^21.1.1"
+    "jsdom": "^21.1.1",
+    "puppeteer": "^19.7.5",
+    "translate-api": "^0.3.18"
+  },
+  "devDependencies": {
+    "zombie": "^6.1.4"
   }
 }

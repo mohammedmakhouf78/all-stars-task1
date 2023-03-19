@@ -2,6 +2,46 @@ const FS = require("fs");
 const jsdom = require("jsdom");
 const { JSDOM } = jsdom;
 const Node = new JSDOM('').window.Node;
+const puppeteer = require('puppeteer');
+
+
+
+async function getTranslation(text) {
+    const browser = await puppeteer.launch();
+    const page = await browser.newPage();
+
+    await page.goto('https://translate.google.com/?sl=en&tl=ar&text=' + text + '&op=translate', { waitUntil: 'load', timeout: 0 })
+
+    await page.waitForSelector('#yDmH0d > c-wiz > div > div.WFnNle > c-wiz > div.OlSOob > c-wiz > div.ccvoYb.EjH7wc > div.AxqVh > div.OPPzxe > c-wiz.sciAJc > div > div.usGWQd > div > div.lRu31 > span.HwtZe > span > span', { visible: true })
+
+    let element = await page.$('#yDmH0d > c-wiz > div > div.WFnNle > c-wiz > div.OlSOob > c-wiz > div.ccvoYb.EjH7wc > div.AxqVh > div.OPPzxe > c-wiz.sciAJc > div > div.usGWQd > div > div.lRu31 > span.HwtZe > span > span')
+
+    let value = await page.evaluate(el => el.innerText, element)
+
+    await browser.close();
+
+    return value;
+}
+
+
+
+// getTranslation("this car is mine").then(function (res) {
+//     console.log(res);
+// })
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -11,10 +51,10 @@ const path = "./test.html"
 let html = FS.readFileSync(path, "utf-8");
 const dom = new JSDOM(html);
 
-run(dom.window.document.querySelector('html'));
 
-function run(element) {
-    element.childNodes.forEach(childNode => {
+
+async function translateElements(element) {
+    await Promise.all(Array.from(element.childNodes).map(async (childNode) => {
         if (childNode.nodeName == "SCRIPT") {
             return;
         }
@@ -26,19 +66,28 @@ function run(element) {
         ) {
 
 
-            childNode.textContent = "ahmed"
-
+            let res = await getTranslation(childNode.textContent)
+            childNode.textContent = res
+            console.log(childNode.textContent);
         }
         else {
-            run(childNode)
+            await translateElements(childNode)
         }
-    });
+    }))
+
 }
 
-let serializedHTML = dom.serialize()
+async function asdfsad() {
+    await translateElements(dom.window.document.querySelector('html'));
+    let serializedHTML = dom.serialize()
+
+    console.log(serializedHTML);
+
+    FS.writeFileSync('test2.html', serializedHTML)
+}
 
 
-FS.writeFileSync('test2.html', serializedHTML)
+asdfsad()
 
 
 
