@@ -511,13 +511,18 @@ translateAll()
 async function translatePlease(childNodes, words){
     let counter = 1;
     for (const childNode of childNodes) {
-        
-        console.log("translating " + childNode.textContent + " ::: " + counter++);
-        
         text = childNode.textContent.trim()
+        
+        if(text.indexOf('#') != -1)
+        {
+            text = text.replace("#",'')   
+        }
+
+        console.log("translating " + text + " ::: " + counter++);
+        
         if(words.hasOwnProperty(text)){
             childNode.textContent = words[text]
-            break;
+            continue;
         }
 
         var regExp = /[a-zA-Z]/g;
@@ -525,8 +530,10 @@ async function translatePlease(childNodes, words){
         if( !regExp.test(text))
         {
             childNode.textContent = text;
-            break;
+            continue;
         }
+
+        
         await sleep(2000)
         childNode.textContent = await getTranslation(text, words)
     }
@@ -561,12 +568,12 @@ async function translateAll(){
         // "www.classcentral.com/institution/google4658.html",
         // "www.classcentral.com/institution/ibm.html",
         // "www.classcentral.com/institution/ibm4658.html",
-        "www.classcentral.com/institution/linuxfoundation.html",
-        "www.classcentral.com/institution/linuxfoundation4658.html",
-        "www.classcentral.com/institution/microsoft.html",
-        "www.classcentral.com/institution/microsoft4658.html",
-        "www.classcentral.com/institution/salesforce.html",
-        "www.classcentral.com/institution/salesforce4658.html",
+        // "www.classcentral.com/institution/linuxfoundation.html",
+        // "www.classcentral.com/institution/linuxfoundation4658.html",
+        // "www.classcentral.com/institution/microsoft.html",
+        // "www.classcentral.com/institution/microsoft4658.html",
+        // "www.classcentral.com/institution/salesforce.html",
+        // "www.classcentral.com/institution/salesforce4658.html",
         "www.classcentral.com/institution/smithsonian.html",
         "www.classcentral.com/institutions.html",
         "www.classcentral.com/lists.html",
