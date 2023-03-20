@@ -106,7 +106,7 @@ function ThroughDirectory(Directory) {
 translateAll()
 
 async function translatePlease(childNodes, words){
-    let counter = 1;
+    // let counter = 1;
     for (const childNode of childNodes) {
         text = childNode.textContent.trim()
 
@@ -119,7 +119,7 @@ async function translatePlease(childNodes, words){
         
         if(words.hasOwnProperty(text)){
             childNode.textContent = words[text]
-            console.log(counter++ + " ==> " + text + " ===> " + childNode.textContent);
+            // console.log(counter++ + " ==> " + text + " ===> " + childNode.textContent);
             continue;
         }
 
@@ -135,14 +135,14 @@ async function translatePlease(childNodes, words){
         if( !regExp.test(text))
         {
             childNode.textContent = text;
-            console.log(counter++ + " ==> " + text + " ===> " + childNode.textContent);
+            // console.log(counter++ + " ==> " + text + " ===> " + childNode.textContent);
             continue;
         }
 
         
         await sleep(2000)
         childNode.textContent = await getTranslation(text, words)
-        console.log(counter++ + " ==> " + text + " ===> " + childNode.textContent);
+        // console.log(counter++ + " ==> " + text + " ===> " + childNode.textContent);
     }
 }
 
