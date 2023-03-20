@@ -525,6 +525,13 @@ async function translatePlease(childNodes, words){
             continue;
         }
 
+        if(text.indexOf('.com') != -1)
+        {
+            words[text] = text;
+            childNode.textContent = words[text]
+            continue;   
+        }
+
         var regExp = /[a-zA-Z]/g;
                     
         if( !regExp.test(text))
@@ -574,7 +581,7 @@ async function translateAll(){
         // "www.classcentral.com/institution/microsoft4658.html",
         // "www.classcentral.com/institution/salesforce.html",
         // "www.classcentral.com/institution/salesforce4658.html",
-        "www.classcentral.com/institution/smithsonian.html",
+        // "www.classcentral.com/institution/smithsonian.html",
         "www.classcentral.com/institutions.html",
         "www.classcentral.com/lists.html",
         "www.classcentral.com/login.html",
