@@ -7,17 +7,17 @@ const Path = require("path");
 
 
 async function getTranslation(text, words) {
-    text = text.trim()
-    if(words.hasOwnProperty(text)){
-        return words[text]
-    }
+    // text = text.trim()
+    // if(words.hasOwnProperty(text)){
+    //     return words[text]
+    // }
 
-    var regExp = /[a-zA-Z]/g;
+    // var regExp = /[a-zA-Z]/g;
                 
-    if( !regExp.test(text))
-    {
-        return text;
-    }
+    // if( !regExp.test(text))
+    // {
+    //     return text;
+    // }
 
     const browser = await puppeteer.launch();
     const page = await browser.newPage();
@@ -511,9 +511,24 @@ translateAll()
 async function translatePlease(childNodes, words){
     let counter = 1;
     for (const childNode of childNodes) {
-        await sleep(2000)
+        
         console.log("translating " + childNode.textContent + " ::: " + counter++);
-        childNode.textContent = await getTranslation(childNode.textContent, words)
+        
+        text = childNode.textContent.trim()
+        if(words.hasOwnProperty(text)){
+            childNode.textContent = words[text]
+            break;
+        }
+
+        var regExp = /[a-zA-Z]/g;
+                    
+        if( !regExp.test(text))
+        {
+            childNode.textContent = text;
+            break;
+        }
+        await sleep(2000)
+        childNode.textContent = await getTranslation(text, words)
     }
 }
 
@@ -542,10 +557,10 @@ async function translateAll(){
         // "www.classcentral.com/institution/amazon.html",
         // "www.classcentral.com/institution/amazon4658.html",
         // "www.classcentral.com/institution/british-council.html",
-        "www.classcentral.com/institution/google.html",
-        "www.classcentral.com/institution/google4658.html",
-        "www.classcentral.com/institution/ibm.html",
-        "www.classcentral.com/institution/ibm4658.html",
+        // "www.classcentral.com/institution/google.html",
+        // "www.classcentral.com/institution/google4658.html",
+        // "www.classcentral.com/institution/ibm.html",
+        // "www.classcentral.com/institution/ibm4658.html",
         "www.classcentral.com/institution/linuxfoundation.html",
         "www.classcentral.com/institution/linuxfoundation4658.html",
         "www.classcentral.com/institution/microsoft.html",
