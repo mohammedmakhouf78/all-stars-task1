@@ -333,7 +333,7 @@ note:	the hts-log.txt file, and hts-cache folder, may contain sensitive informat
 07:09:52	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.classcentral.com/report/best-free-online-courses-2022/ (from https://www.classcentral.com/)
 07:09:52	Warning: 	HTML file (510115 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/coursera-free-online-courses/
 07:10:03	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.classcentral.com/report/coursera-free-online-courses/ (from https://www.classcentral.com/)
-07:10:49	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): static.getclicky.com/js
+07:10:49	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): static.getclicky.com/js.js
 07:10:50	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): in.getclicky.com/100717250ns.gif
 07:11:07	Warning: 	HTML file (142447 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/author/dhawal/
 07:11:15	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.classcentral.com/report/author/dhawal/ (from https://www.classcentral.com/)
