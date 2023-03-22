@@ -132,7 +132,20 @@ function run(){
         
         
         
-        "www.classcentral.com/institution/amazon.html",
+        // "www.classcentral.com/institution/amazon.html",
+        // "www.classcentral.com/institution/amazon4658.html",
+        // "www.classcentral.com/institution/british-council.html",
+        "www.classcentral.com/institution/google.html",
+        "www.classcentral.com/institution/google4658.html",
+        // "www.classcentral.com/institution/ibm.html",
+        "www.classcentral.com/institution/ibm4658.html",
+        // "www.classcentral.com/institution/linuxfoundation.html",
+        "www.classcentral.com/institution/linuxfoundation4658.html",
+        // "www.classcentral.com/institution/microsoft.html",
+        "www.classcentral.com/institution/microsoft4658.html",
+        // "www.classcentral.com/institution/salesforce.html",
+        // "www.classcentral.com/institution/salesforce4658.html",
+        // "www.classcentral.com/institution/smithsonian.html",
 
     ]
 
@@ -152,8 +165,10 @@ function run(){
             .replace('//www.google-analytics.com/analytics.js',
             '../../www.google-analytics.com/analytics.js')
 
-            .replaceAll('/fonts/source-sans-pro-hinted',
-            '../fonts/source-sans-pro-unhinted',)
+            // .replaceAll('/fonts/source-sans-pro-hinted',
+            // '../fonts/source-sans-pro-unhinted')
+            // .replaceAll('/fonts',
+            // '../fonts')
 
             .replace('//in.getclicky.com/100717250ns.gif',
             '../../in.getclicky.com/100717250ns.gif')
@@ -161,11 +176,11 @@ function run(){
             .replace('//static.getclicky.com/js',
             '../../static.getclicky.com/js.js')
 
-            .replace('/favicon-32x32.png',
-            '../favicon-32x32.png')
+            // .replace('/favicon-32x32.png',
+            // '../favicon-32x32.png')
 
-            .replace('/favicon-16x16.png',
-            '../favicon-16x16.png')
+            // .replace('/favicon-16x16.png',
+            // '../favicon-16x16.png')
 
             .replace('</footer>',
             `
