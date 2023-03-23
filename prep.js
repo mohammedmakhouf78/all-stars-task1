@@ -172,8 +172,23 @@ function run(){
         // "www.classcentral.com/provider/udemy4658.html",
 
 
-        "www.classcentral.com/about.html",
+        // "www.classcentral.com/about.html",
+        // "www.classcentral.com/collections.html",
+        // "www.classcentral.com/contact.html",
+        // "www.classcentral.com/help.html",
+        // "www.classcentral.com/institutions.html",
+        // "www.classcentral.com/lists.html",
+        // "www.classcentral.com/login.html",
+        // "www.classcentral.com/rankings.html",
+        // "www.classcentral.com/signup.html",
+        // "www.classcentral.com/starting-this-month4658.html",
+        // "www.classcentral.com/subjects.html",
+        // "www.classcentral.com/subjects4658.html",
+        // "www.classcentral.com/universities.html",
 
+
+
+        // "www.classcentral.com/providers.html",
     ]
 
     for (const fileName of files)
@@ -192,8 +207,8 @@ function run(){
             .replace('//www.google-analytics.com/analytics.js',
             '../www.google-analytics.com/analytics.js')
 
-            // .replaceAll('/fonts/source-sans-pro-hinted',
-            // '../fonts/source-sans-pro-unhinted')
+            .replaceAll('/fonts/source-sans-pro-hinted',
+            './fonts/source-sans-pro-unhinted')
             // .replaceAll('/fonts',
             // '../fonts')
 
@@ -203,11 +218,11 @@ function run(){
             .replace('//static.getclicky.com/js',
             '../static.getclicky.com/js.js')
 
-            // .replace('/favicon-32x32.png',
-            // '../favicon-32x32.png')
+            .replace('/favicon-32x32.png',
+            './favicon-32x32.png')
 
-            // .replace('/favicon-16x16.png',
-            // '../favicon-16x16.png')
+            .replace('/favicon-16x16.png',
+            './favicon-16x16.png')
 
             .replace('</footer>',
             `
