@@ -135,17 +135,44 @@ function run(){
         // "www.classcentral.com/institution/amazon.html",
         // "www.classcentral.com/institution/amazon4658.html",
         // "www.classcentral.com/institution/british-council.html",
-        "www.classcentral.com/institution/google.html",
-        "www.classcentral.com/institution/google4658.html",
+        // "www.classcentral.com/institution/google.html",
+        // "www.classcentral.com/institution/google4658.html",
         // "www.classcentral.com/institution/ibm.html",
-        "www.classcentral.com/institution/ibm4658.html",
+        // "www.classcentral.com/institution/ibm4658.html",
         // "www.classcentral.com/institution/linuxfoundation.html",
-        "www.classcentral.com/institution/linuxfoundation4658.html",
+        // "www.classcentral.com/institution/linuxfoundation4658.html",
         // "www.classcentral.com/institution/microsoft.html",
-        "www.classcentral.com/institution/microsoft4658.html",
+        // "www.classcentral.com/institution/microsoft4658.html",
         // "www.classcentral.com/institution/salesforce.html",
         // "www.classcentral.com/institution/salesforce4658.html",
         // "www.classcentral.com/institution/smithsonian.html",
+
+
+
+        // "www.classcentral.com/mooc-course-report/march-2023.html",
+
+        // "www.classcentral.com/new-online-courses/february-20234658.html",
+
+
+        // "www.classcentral.com/provider/coursera.html",
+        // "www.classcentral.com/provider/edx.html",
+        // "www.classcentral.com/provider/futurelearn.html",
+
+        // "www.classcentral.com/provider/linkedin-learning.html",
+        // "www.classcentral.com/provider/skillshare.html",
+        // "www.classcentral.com/provider/swayam.html",
+        // "www.classcentral.com/provider/udacity.html",
+        // "www.classcentral.com/provider/udacity4658.html",
+        // "www.classcentral.com/provider/udemy.html",
+
+        // "www.classcentral.com/provider/futurelearn4658.html",
+        // "www.classcentral.com/provider/linkedin-learning4658.html",
+        // "www.classcentral.com/provider/skillshare4658.html",
+        // "www.classcentral.com/provider/swayam4658.html",
+        // "www.classcentral.com/provider/udemy4658.html",
+
+
+        "www.classcentral.com/about.html",
 
     ]
 
@@ -154,16 +181,16 @@ function run(){
         let html = FS.readFileSync(fileName, "utf-8");
 
         html = html.replace('src="/images/promobar/celebrate.svg"',
-            'src="../images/promobar/celebrate.svg"')
+            'src="./images/promobar/celebrate.svg"')
 
             .replace('src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"',
-            'src="../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"')
+            'src="./cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"')
 
             .replace('src="/webpack/analytics.2edefc668ab4db842c41.js"',
-            'src="../webpack/analytics.2edefc668ab4db842c41.js"')
+            'src="./webpack/analytics.2edefc668ab4db842c41.js"')
 
             .replace('//www.google-analytics.com/analytics.js',
-            '../../www.google-analytics.com/analytics.js')
+            '../www.google-analytics.com/analytics.js')
 
             // .replaceAll('/fonts/source-sans-pro-hinted',
             // '../fonts/source-sans-pro-unhinted')
@@ -171,10 +198,10 @@ function run(){
             // '../fonts')
 
             .replace('//in.getclicky.com/100717250ns.gif',
-            '../../in.getclicky.com/100717250ns.gif')
+            '../in.getclicky.com/100717250ns.gif')
 
             .replace('//static.getclicky.com/js',
-            '../../static.getclicky.com/js.js')
+            '../static.getclicky.com/js.js')
 
             // .replace('/favicon-32x32.png',
             // '../favicon-32x32.png')
@@ -186,18 +213,18 @@ function run(){
             `
                 </footer>
 
-                <script src="../webpack/messages-intl-icu-en-yml.64477e124174f9d771be.js"></script>
-                <script src="../webpack/2074.c4642c0407922b16e0d1.js"></script>
-                <script src="../webpack/Auth.1f03c0fa42fb94d83a15.js"></script>
-                <script src="../webpack/MarkComplete.e9560adcebc4ad54e6bf.js"></script>
-                <script src="../webpack/UserActions.30ee83ef27eafec0be61.js"></script>
-                <script src="../webpack/4826.ea570b7100e8c5e53e11.js"></script>
-                <script src="../webpack/Misc.a66f8a686e276f997313.js"></script>
-                <script src="../webpack/Pagination.fd8539ea70965c8542c8.js"></script>
-                <script src="../webpack/Filters.781a45b928bd1af34c1a.js"></script>
-                <script src="../webpack/CatalogIframes.e92a992e0057084c87f3.js"></script>
-                <script src="../webpack/CatalogCuratedContent.d46ca8deb825bb5facd8.js"></script>
-                <script src="../../in.getclicky.com/getclicky.js"></script>
+                <script src="./webpack/messages-intl-icu-en-yml.64477e124174f9d771be.js"></script>
+                <script src="./webpack/2074.c4642c0407922b16e0d1.js"></script>
+                <script src="./webpack/Auth.1f03c0fa42fb94d83a15.js"></script>
+                <script src="./webpack/MarkComplete.e9560adcebc4ad54e6bf.js"></script>
+                <script src="./webpack/UserActions.30ee83ef27eafec0be61.js"></script>
+                <script src="./webpack/4826.ea570b7100e8c5e53e11.js"></script>
+                <script src="./webpack/Misc.a66f8a686e276f997313.js"></script>
+                <script src="./webpack/Pagination.fd8539ea70965c8542c8.js"></script>
+                <script src="./webpack/Filters.781a45b928bd1af34c1a.js"></script>
+                <script src="./webpack/CatalogIframes.e92a992e0057084c87f3.js"></script>
+                <script src="./webpack/CatalogCuratedContent.d46ca8deb825bb5facd8.js"></script>
+                <script src="../in.getclicky.com/getclicky.js"></script>
             `)
 
         FS.writeFileSync(fileName, html)
