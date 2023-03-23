@@ -667,7 +667,8 @@ async function translateAll(){
         // "www.classcentral.com/subject/web-development.html",
 
 
-        "www.classcentral.com/providers.html",
+        // "www.classcentral.com/providers.html",
+        // "www.classcentral.com/provider/unccelearn.html",
       ];
 
     let words = FS.readFileSync("./words.txt", "utf-8");

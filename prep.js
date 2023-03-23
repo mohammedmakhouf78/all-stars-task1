@@ -170,6 +170,7 @@ function run(){
         // "www.classcentral.com/provider/skillshare4658.html",
         // "www.classcentral.com/provider/swayam4658.html",
         // "www.classcentral.com/provider/udemy4658.html",
+        // "www.classcentral.com/provider/unccelearn.html",
 
 
         // "www.classcentral.com/about.html",
@@ -189,6 +190,20 @@ function run(){
 
 
         // "www.classcentral.com/providers.html",
+        // "www.classcentral.com/university/stanford.html",
+        // "www.classcentral.com/university/mit.html",
+        // "www.classcentral.com/university/harvard.html",
+        // "www.classcentral.com/university/iit-kharagpur.html",
+        // "www.classcentral.com/university/rice.html",
+        // "www.classcentral.com/university/columbia.html",
+        // "www.classcentral.com/university/edinburgh.html",
+        // "www.classcentral.com/university/penn.html",
+        // "www.classcentral.com/university/umich.html",
+        // "www.classcentral.com/university/iitm.html",
+        // "www.classcentral.com/university/cornell.html",
+        // "www.classcentral.com/university/purdue.html",
+        // "www.classcentral.com/university/duke.html",
+        "www.classcentral.com/university/gatech.html",
     ]
 
     for (const fileName of files)
@@ -196,50 +211,50 @@ function run(){
         let html = FS.readFileSync(fileName, "utf-8");
 
         html = html.replace('src="/images/promobar/celebrate.svg"',
-            'src="./images/promobar/celebrate.svg"')
+            'src="../images/promobar/celebrate.svg"')
 
             .replace('src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"',
-            'src="./cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"')
+            'src="../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"')
 
             .replace('src="/webpack/analytics.2edefc668ab4db842c41.js"',
-            'src="./webpack/analytics.2edefc668ab4db842c41.js"')
+            'src="../webpack/analytics.2edefc668ab4db842c41.js"')
 
             .replace('//www.google-analytics.com/analytics.js',
-            '../www.google-analytics.com/analytics.js')
+            '../../www.google-analytics.com/analytics.js')
 
-            .replaceAll('/fonts/source-sans-pro-hinted',
-            './fonts/source-sans-pro-unhinted')
+            // .replaceAll('/fonts/source-sans-pro-hinted',
+            // '../fonts/source-sans-pro-unhinted')
             // .replaceAll('/fonts',
             // '../fonts')
 
             .replace('//in.getclicky.com/100717250ns.gif',
-            '../in.getclicky.com/100717250ns.gif')
+            '../../in.getclicky.com/100717250ns.gif')
 
             .replace('//static.getclicky.com/js',
-            '../static.getclicky.com/js.js')
+            '../../static.getclicky.com/js.js')
 
-            .replace('/favicon-32x32.png',
-            './favicon-32x32.png')
+            // .replace('/favicon-32x32.png',
+            // '../favicon-32x32.png')
 
-            .replace('/favicon-16x16.png',
-            './favicon-16x16.png')
+            // .replace('/favicon-16x16.png',
+            // '../favicon-16x16.png')
 
             .replace('</footer>',
             `
                 </footer>
 
-                <script src="./webpack/messages-intl-icu-en-yml.64477e124174f9d771be.js"></script>
-                <script src="./webpack/2074.c4642c0407922b16e0d1.js"></script>
-                <script src="./webpack/Auth.1f03c0fa42fb94d83a15.js"></script>
-                <script src="./webpack/MarkComplete.e9560adcebc4ad54e6bf.js"></script>
-                <script src="./webpack/UserActions.30ee83ef27eafec0be61.js"></script>
-                <script src="./webpack/4826.ea570b7100e8c5e53e11.js"></script>
-                <script src="./webpack/Misc.a66f8a686e276f997313.js"></script>
-                <script src="./webpack/Pagination.fd8539ea70965c8542c8.js"></script>
-                <script src="./webpack/Filters.781a45b928bd1af34c1a.js"></script>
-                <script src="./webpack/CatalogIframes.e92a992e0057084c87f3.js"></script>
-                <script src="./webpack/CatalogCuratedContent.d46ca8deb825bb5facd8.js"></script>
-                <script src="../in.getclicky.com/getclicky.js"></script>
+                <script src="../webpack/messages-intl-icu-en-yml.64477e124174f9d771be.js"></script>
+                <script src="../webpack/2074.c4642c0407922b16e0d1.js"></script>
+                <script src="../webpack/Auth.1f03c0fa42fb94d83a15.js"></script>
+                <script src="../webpack/MarkComplete.e9560adcebc4ad54e6bf.js"></script>
+                <script src="../webpack/UserActions.30ee83ef27eafec0be61.js"></script>
+                <script src="../webpack/4826.ea570b7100e8c5e53e11.js"></script>
+                <script src="../webpack/Misc.a66f8a686e276f997313.js"></script>
+                <script src="../webpack/Pagination.fd8539ea70965c8542c8.js"></script>
+                <script src="../webpack/Filters.781a45b928bd1af34c1a.js"></script>
+                <script src="../webpack/CatalogIframes.e92a992e0057084c87f3.js"></script>
+                <script src="../webpack/CatalogCuratedContent.d46ca8deb825bb5facd8.js"></script>
+                <script src="../../in.getclicky.com/getclicky.js"></script>
             `)
 
         FS.writeFileSync(fileName, html)
